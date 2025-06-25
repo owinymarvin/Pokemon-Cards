@@ -15,6 +15,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { StatusBar as RNStatusBar } from "react-native";
 import { StatusBar } from "expo-status-bar";
 import pokemonData from "@/components/pokemon/data/pokemon_data.json";
+import { FlatList } from "react-native";
 
 export default function RootLayout() {
   const colorScheme = useColorScheme();
@@ -65,16 +66,38 @@ export default function RootLayout() {
 
   return (
     <ThemeProvider value={colorScheme === "dark" ? DarkTheme : DefaultTheme}>
-      <SafeAreaView style={styles.safeArea}>
-        <ScrollView>
-          <ThemedView style={styles.container}>
-            <PokemonCard {...charmanderData} />
-            <PokemonCard {...squirtleData} />
-            <PokemonCard {...bulbasaurData} />
-            <PokemonCard {...pikachuData} />
-          </ThemedView>
-          <StatusBar style="auto" />
-        </ScrollView>
+      <SafeAreaView style={{ flex: 1, backgroundColor: "red" }}>
+        <ThemedView style={styles.container}>
+          <FlatList
+            data={pokemonData}
+            keyExtractor={(item) => item.id.toString()}
+            showsVerticalScrollIndicator={false}
+            ListEmptyComponent={
+              <ThemedView>
+                <ThemedText>No items found</ThemedText>
+              </ThemedView>
+            }
+            renderItem={({ item }) => {
+              console.log(item.id);
+              return (
+                <ThemedView style={styles.card} key={item.id}>
+                  <ThemedText>{item.type}</ThemedText>
+                  <ThemedText>{item.name}</ThemedText>
+                </ThemedView>
+              );
+            }}
+            ListHeaderComponent={
+              <ThemedView>
+                <ThemedText>Pokemon List</ThemedText>
+              </ThemedView>
+            }
+            ListFooterComponent={
+              <ThemedView>
+                <ThemedText>End of List</ThemedText>
+              </ThemedView>
+            }
+          />
+        </ThemedView>
         <StatusBar style="auto" />
       </SafeAreaView>
     </ThemeProvider>
@@ -87,5 +110,12 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#fff",
     paddingTop: RNStatusBar.currentHeight || 0,
+  },
+  card: {
+    backgroundColor: "white",
+    padding: 16,
+    borderRadius: 8,
+    borderWidth: 1,
+    marginBottom: 16,
   },
 });

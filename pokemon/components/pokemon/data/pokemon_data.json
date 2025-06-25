@@ -1,0 +1,4952 @@
+[
+  {
+    "id": "1",
+    "name": "Bulbasaur",
+    "image": "@/assets/images/pokemon/pokemon_1.png",
+    "type": "Grass",
+    "hp": 37,
+    "moves": ["Gust", "Ember", "Bite", "Thunderbolt"],
+    "weaknesses": ["Flying", "Poison", "Ice", "Fire"]
+  },
+  {
+    "id": "2",
+    "name": "Ivysaur",
+    "image": "@/assets/images/pokemon/pokemon_2.png",
+    "type": "Grass",
+    "hp": 71,
+    "moves": ["Stone Edge", "Leech Seed", "Bite", "Poison Jab"],
+    "weaknesses": ["Fire"]
+  },
+  {
+    "id": "3",
+    "name": "Venusaur",
+    "image": "@/assets/images/pokemon/pokemon_3.png",
+    "type": "Grass",
+    "hp": 48,
+    "moves": ["Bug Buzz", "Withdraw", "Razor Leaf", "Flamethrower"],
+    "weaknesses": ["Fire", "Flying", "Ice", "Poison", "Bug"]
+  },
+  {
+    "id": "4",
+    "name": "Charmander",
+    "image": "@/assets/images/pokemon/pokemon_4.png",
+    "type": "Fire",
+    "hp": 75,
+    "moves": ["Dark Pulse", "Growl", "Dazzling Gleam", "Rest"],
+    "weaknesses": ["Rock", "Water"]
+  },
+  {
+    "id": "5",
+    "name": "Charmeleon",
+    "image": "@/assets/images/pokemon/pokemon_5.png",
+    "type": "Fire",
+    "hp": 110,
+    "moves": ["Poison Jab", "Water Gun"],
+    "weaknesses": ["Rock", "Ground", "Water"]
+  },
+  {
+    "id": "6",
+    "name": "Charizard",
+    "image": "@/assets/images/pokemon/pokemon_6.png",
+    "type": "Fire",
+    "hp": 49,
+    "moves": ["Scratch", "Hydro Pump"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "7",
+    "name": "Squirtle",
+    "image": "@/assets/images/pokemon/pokemon_7.png",
+    "type": "Water",
+    "hp": 59,
+    "moves": ["Hyper Beam", "Protect", "Dark Pulse"],
+    "weaknesses": ["Electric", "Grass"]
+  },
+  {
+    "id": "8",
+    "name": "Wartortle",
+    "image": "@/assets/images/pokemon/pokemon_8.png",
+    "type": "Water",
+    "hp": 103,
+    "moves": ["Dark Pulse", "Water Gun"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "9",
+    "name": "Blastoise",
+    "image": "@/assets/images/pokemon/pokemon_9.png",
+    "type": "Water",
+    "hp": 47,
+    "moves": ["Rest", "Leech Seed", "Dragon Claw", "Tackle"],
+    "weaknesses": ["Grass", "Electric"]
+  },
+  {
+    "id": "10",
+    "name": "Warttoisekin",
+    "image": "@/assets/images/pokemon/pokemon_10.png",
+    "type": "Normal",
+    "hp": 30,
+    "moves": ["Tackle", "Stone Edge"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "11",
+    "name": "Digvee",
+    "image": "@/assets/images/pokemon/pokemon_11.png",
+    "type": "Psychic",
+    "hp": 67,
+    "moves": ["Bug Buzz", "Growl", "Psycho Cut"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "12",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_12.png",
+    "type": "Electric",
+    "hp": 60,
+    "moves": ["Protect", "Razor Leaf", "Tail Whip"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "13",
+    "name": "Vulp",
+    "image": "@/assets/images/pokemon/pokemon_13.png",
+    "type": "Water",
+    "hp": 67,
+    "moves": ["Poison Jab", "Dazzling Gleam", "Gust", "Iron Tail"],
+    "weaknesses": ["Electric"]
+  },
+  {
+    "id": "14",
+    "name": "Pidgerankin",
+    "image": "@/assets/images/pokemon/pokemon_14.png",
+    "type": "Dragon",
+    "hp": 44,
+    "moves": ["Scratch", "Leech Seed", "Stone Edge", "Shadow Ball"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "15",
+    "name": "Arbot",
+    "image": "@/assets/images/pokemon/pokemon_15.png",
+    "type": "Water",
+    "hp": 115,
+    "moves": ["Gust", "Hyper Beam"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "16",
+    "name": "Rati",
+    "image": "@/assets/images/pokemon/pokemon_16.png",
+    "type": "Ghost",
+    "hp": 77,
+    "moves": ["Bite", "Tail Whip"],
+    "weaknesses": ["Dark", "Ghost"]
+  },
+  {
+    "id": "17",
+    "name": "Snorshrew",
+    "image": "@/assets/images/pokemon/pokemon_17.png",
+    "type": "Fighting",
+    "hp": 54,
+    "moves": ["Psycho Cut", "Bug Buzz", "Tackle", "Poison Jab"],
+    "weaknesses": ["Flying", "Psychic"]
+  },
+  {
+    "id": "18",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_18.png",
+    "type": "Electric",
+    "hp": 51,
+    "moves": ["Earthquake", "Poison Jab", "Flamethrower", "Scratch"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "19",
+    "name": "Ekans",
+    "image": "@/assets/images/pokemon/pokemon_19.png",
+    "type": "Fire",
+    "hp": 34,
+    "moves": ["Iron Tail", "Flamethrower", "Gust", "Dragon Claw"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "20",
+    "name": "Pika",
+    "image": "@/assets/images/pokemon/pokemon_20.png",
+    "type": "Fairy",
+    "hp": 58,
+    "moves": ["Razor Leaf", "Dragon Claw", "Poison Jab", "Earthquake"],
+    "weaknesses": ["Steel"]
+  },
+  {
+    "id": "21",
+    "name": "Sandveekin",
+    "image": "@/assets/images/pokemon/pokemon_21.png",
+    "type": "Ghost",
+    "hp": 55,
+    "moves": ["Thunder Shock", "Double Kick"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "22",
+    "name": "Blastosaur",
+    "image": "@/assets/images/pokemon/pokemon_22.png",
+    "type": "Fairy",
+    "hp": 43,
+    "moves": ["Iron Tail", "Thunderbolt", "Hyper Beam"],
+    "weaknesses": ["Steel"]
+  },
+  {
+    "id": "23",
+    "name": "Jigg",
+    "image": "@/assets/images/pokemon/pokemon_23.png",
+    "type": "Grass",
+    "hp": 106,
+    "moves": ["Thunderbolt", "Leech Seed", "Growl", "Psycho Cut"],
+    "weaknesses": ["Flying", "Poison"]
+  },
+  {
+    "id": "24",
+    "name": "Arbobat",
+    "image": "@/assets/images/pokemon/pokemon_24.png",
+    "type": "Electric",
+    "hp": 63,
+    "moves": ["Stone Edge", "Double Kick", "Quick Attack", "Gust"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "25",
+    "name": "Vulpbatstar",
+    "image": "@/assets/images/pokemon/pokemon_25.png",
+    "type": "Steel",
+    "hp": 63,
+    "moves": ["Scratch", "Thunderbolt", "Iron Tail", "Bug Buzz"],
+    "weaknesses": ["Fire", "Ground"]
+  },
+  {
+    "id": "26",
+    "name": "Venuveeo",
+    "image": "@/assets/images/pokemon/pokemon_26.png",
+    "type": "Fighting",
+    "hp": 88,
+    "moves": ["Gust", "Quick Attack"],
+    "weaknesses": ["Psychic", "Fairy", "Flying"]
+  },
+  {
+    "id": "27",
+    "name": "Pikafree",
+    "image": "@/assets/images/pokemon/pokemon_27.png",
+    "type": "Grass",
+    "hp": 44,
+    "moves": ["Water Gun", "Bite"],
+    "weaknesses": ["Fire", "Ice", "Poison"]
+  },
+  {
+    "id": "28",
+    "name": "Vulpmander",
+    "image": "@/assets/images/pokemon/pokemon_28.png",
+    "type": "Dragon",
+    "hp": 110,
+    "moves": ["Double Kick", "Flamethrower"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "29",
+    "name": "Arbochu3",
+    "image": "@/assets/images/pokemon/pokemon_29.png",
+    "type": "Steel",
+    "hp": 75,
+    "moves": ["Dragon Claw", "Tackle"],
+    "weaknesses": ["Fire", "Fighting", "Ground"]
+  },
+  {
+    "id": "30",
+    "name": "Cateryo",
+    "image": "@/assets/images/pokemon/pokemon_30.png",
+    "type": "Electric",
+    "hp": 120,
+    "moves": ["Gust", "Bite"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "31",
+    "name": "Wartixkin",
+    "image": "@/assets/images/pokemon/pokemon_31.png",
+    "type": "Water",
+    "hp": 82,
+    "moves": ["Hydro Pump", "Vine Whip", "Growl", "Thunder Shock"],
+    "weaknesses": ["Electric", "Grass"]
+  },
+  {
+    "id": "32",
+    "name": "Mewtlestar",
+    "image": "@/assets/images/pokemon/pokemon_32.png",
+    "type": "Fighting",
+    "hp": 97,
+    "moves": ["Earthquake", "Scratch", "Vine Whip"],
+    "weaknesses": ["Psychic", "Flying"]
+  },
+  {
+    "id": "33",
+    "name": "Pikatleo",
+    "image": "@/assets/images/pokemon/pokemon_33.png",
+    "type": "Fire",
+    "hp": 36,
+    "moves": ["Dazzling Gleam", "Rest", "Double Kick"],
+    "weaknesses": ["Rock", "Ground"]
+  },
+  {
+    "id": "34",
+    "name": "Snor",
+    "image": "@/assets/images/pokemon/pokemon_34.png",
+    "type": "Flying",
+    "hp": 108,
+    "moves": ["Ember", "Hydro Pump", "Poison Jab", "Vine Whip"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "35",
+    "name": "Wartchumon",
+    "image": "@/assets/images/pokemon/pokemon_35.png",
+    "type": "Rock",
+    "hp": 84,
+    "moves": ["Stone Edge", "Gust", "Dazzling Gleam"],
+    "weaknesses": ["Grass", "Fighting"]
+  },
+  {
+    "id": "36",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_36.png",
+    "type": "Bug",
+    "hp": 86,
+    "moves": ["Earthquake", "Gust", "Quick Attack"],
+    "weaknesses": ["Fire", "Flying"]
+  },
+  {
+    "id": "37",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_37.png",
+    "type": "Steel",
+    "hp": 59,
+    "moves": ["Hyper Beam", "Flamethrower", "Leech Seed"],
+    "weaknesses": ["Fire"]
+  },
+  {
+    "id": "38",
+    "name": "Cleftmon",
+    "image": "@/assets/images/pokemon/pokemon_38.png",
+    "type": "Ice",
+    "hp": 97,
+    "moves": ["Tackle", "Thunder Shock", "Leech Seed"],
+    "weaknesses": ["Fire"]
+  },
+  {
+    "id": "39",
+    "name": "Eeveey",
+    "image": "@/assets/images/pokemon/pokemon_39.png",
+    "type": "Poison",
+    "hp": 114,
+    "moves": ["Flamethrower", "Leech Seed", "Gust", "Quick Attack"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "40",
+    "name": "Jigg",
+    "image": "@/assets/images/pokemon/pokemon_40.png",
+    "type": "Normal",
+    "hp": 70,
+    "moves": ["Thunder Shock", "Earthquake", "Growl", "Ember"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "41",
+    "name": "Ratipiekin",
+    "image": "@/assets/images/pokemon/pokemon_41.png",
+    "type": "Fighting",
+    "hp": 30,
+    "moves": ["Scratch", "Bite", "Poison Jab", "Vine Whip"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "42",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_42.png",
+    "type": "Dark",
+    "hp": 106,
+    "moves": ["Bite", "Water Gun"],
+    "weaknesses": ["Bug", "Fighting"]
+  },
+  {
+    "id": "43",
+    "name": "Charsaur",
+    "image": "@/assets/images/pokemon/pokemon_43.png",
+    "type": "Fire",
+    "hp": 59,
+    "moves": ["Rest", "Psycho Cut"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "44",
+    "name": "Nidolypuffo",
+    "image": "@/assets/images/pokemon/pokemon_44.png",
+    "type": "Dark",
+    "hp": 43,
+    "moves": ["Hyper Beam", "Thunder Shock", "Dragon Claw"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "45",
+    "name": "Caterbat",
+    "image": "@/assets/images/pokemon/pokemon_45.png",
+    "type": "Ghost",
+    "hp": 109,
+    "moves": ["Bug Buzz", "Iron Tail", "Ember"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "46",
+    "name": "Nidoy",
+    "image": "@/assets/images/pokemon/pokemon_46.png",
+    "type": "Fire",
+    "hp": 52,
+    "moves": ["Withdraw", "Water Gun", "Poison Jab", "Dragon Claw"],
+    "weaknesses": ["Water", "Ground"]
+  },
+  {
+    "id": "47",
+    "name": "Venulett",
+    "image": "@/assets/images/pokemon/pokemon_47.png",
+    "type": "Flying",
+    "hp": 40,
+    "moves": ["Ember", "Poison Jab", "Scratch", "Bite"],
+    "weaknesses": ["Electric", "Rock", "Ice"]
+  },
+  {
+    "id": "48",
+    "name": "Bulba",
+    "image": "@/assets/images/pokemon/pokemon_48.png",
+    "type": "Ice",
+    "hp": 59,
+    "moves": ["Protect", "Dark Pulse", "Vine Whip"],
+    "weaknesses": ["Steel", "Fire"]
+  },
+  {
+    "id": "49",
+    "name": "Parasect",
+    "image": "@/assets/images/pokemon/pokemon_49.png",
+    "type": "Fire",
+    "hp": 61,
+    "moves": ["Dazzling Gleam", "Dragon Claw", "Flamethrower", "Scratch"],
+    "weaknesses": ["Rock", "Ground", "Water"]
+  },
+  {
+    "id": "50",
+    "name": "Metafablekin",
+    "image": "@/assets/images/pokemon/pokemon_50.png",
+    "type": "Fighting",
+    "hp": 56,
+    "moves": ["Gust", "Protect"],
+    "weaknesses": ["Fairy", "Flying"]
+  },
+  {
+    "id": "51",
+    "name": "Sandmander",
+    "image": "@/assets/images/pokemon/pokemon_51.png",
+    "type": "Bug",
+    "hp": 97,
+    "moves": ["Earthquake", "Shadow Ball", "Dark Pulse", "Bite"],
+    "weaknesses": ["Fire", "Rock"]
+  },
+  {
+    "id": "52",
+    "name": "Metafable",
+    "image": "@/assets/images/pokemon/pokemon_52.png",
+    "type": "Flying",
+    "hp": 95,
+    "moves": ["Shadow Ball", "Withdraw"],
+    "weaknesses": ["Rock", "Electric", "Ice"]
+  },
+  {
+    "id": "53",
+    "name": "Charlett",
+    "image": "@/assets/images/pokemon/pokemon_53.png",
+    "type": "Normal",
+    "hp": 41,
+    "moves": ["Razor Leaf", "Dazzling Gleam", "Stone Edge"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "54",
+    "name": "Charishstar",
+    "image": "@/assets/images/pokemon/pokemon_54.png",
+    "type": "Steel",
+    "hp": 90,
+    "moves": ["Hydro Pump", "Rest"],
+    "weaknesses": ["Ground", "Fire", "Fighting"]
+  },
+  {
+    "id": "55",
+    "name": "Metasaur",
+    "image": "@/assets/images/pokemon/pokemon_55.png",
+    "type": "Poison",
+    "hp": 92,
+    "moves": ["Dragon Claw", "Protect", "Dark Pulse"],
+    "weaknesses": ["Psychic", "Ground"]
+  },
+  {
+    "id": "56",
+    "name": "Arboish",
+    "image": "@/assets/images/pokemon/pokemon_56.png",
+    "type": "Poison",
+    "hp": 40,
+    "moves": ["Vine Whip", "Poison Jab"],
+    "weaknesses": ["Psychic", "Ground"]
+  },
+  {
+    "id": "57",
+    "name": "Ivymander",
+    "image": "@/assets/images/pokemon/pokemon_57.png",
+    "type": "Water",
+    "hp": 110,
+    "moves": ["Thunderbolt", "Tackle", "Thunder Shock", "Tail Whip"],
+    "weaknesses": ["Grass", "Electric"]
+  },
+  {
+    "id": "58",
+    "name": "Squirtwo",
+    "image": "@/assets/images/pokemon/pokemon_58.png",
+    "type": "Poison",
+    "hp": 105,
+    "moves": ["Bite", "Dazzling Gleam", "Hyper Beam"],
+    "weaknesses": ["Psychic", "Ground"]
+  },
+  {
+    "id": "59",
+    "name": "Blastoran",
+    "image": "@/assets/images/pokemon/pokemon_59.png",
+    "type": "Rock",
+    "hp": 46,
+    "moves": ["Stone Edge", "Bug Buzz", "Poison Jab", "Earthquake"],
+    "weaknesses": ["Water", "Fighting"]
+  },
+  {
+    "id": "60",
+    "name": "Squirix",
+    "image": "@/assets/images/pokemon/pokemon_60.png",
+    "type": "Rock",
+    "hp": 39,
+    "moves": ["Thunder Shock", "Dragon Claw", "Rest", "Shadow Ball"],
+    "weaknesses": ["Fighting", "Ground", "Water"]
+  },
+  {
+    "id": "61",
+    "name": "Ekans",
+    "image": "@/assets/images/pokemon/pokemon_61.png",
+    "type": "Grass",
+    "hp": 82,
+    "moves": ["Dazzling Gleam", "Hyper Beam"],
+    "weaknesses": ["Bug", "Poison", "Fire", "Ice"]
+  },
+  {
+    "id": "62",
+    "name": "Snorvee",
+    "image": "@/assets/images/pokemon/pokemon_62.png",
+    "type": "Normal",
+    "hp": 43,
+    "moves": ["Shadow Ball", "Ember", "Thunderbolt"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "63",
+    "name": "Jiggsaur",
+    "image": "@/assets/images/pokemon/pokemon_63.png",
+    "type": "Fairy",
+    "hp": 57,
+    "moves": ["Vine Whip", "Bite"],
+    "weaknesses": ["Steel", "Poison"]
+  },
+  {
+    "id": "64",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_64.png",
+    "type": "Fighting",
+    "hp": 102,
+    "moves": ["Thunder Shock", "Dazzling Gleam", "Scratch", "Quick Attack"],
+    "weaknesses": ["Psychic", "Flying", "Fairy"]
+  },
+  {
+    "id": "65",
+    "name": "Caterrowo",
+    "image": "@/assets/images/pokemon/pokemon_65.png",
+    "type": "Flying",
+    "hp": 47,
+    "moves": ["Poison Jab", "Leech Seed", "Bite"],
+    "weaknesses": ["Rock", "Electric", "Ice"]
+  },
+  {
+    "id": "66",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_66.png",
+    "type": "Grass",
+    "hp": 116,
+    "moves": ["Dazzling Gleam", "Hydro Pump", "Vine Whip"],
+    "weaknesses": ["Fire", "Bug", "Poison", "Ice"]
+  },
+  {
+    "id": "67",
+    "name": "Wartlettstar",
+    "image": "@/assets/images/pokemon/pokemon_67.png",
+    "type": "Rock",
+    "hp": 94,
+    "moves": ["Dragon Claw", "Ember", "Razor Leaf"],
+    "weaknesses": ["Grass", "Ground", "Steel"]
+  },
+  {
+    "id": "68",
+    "name": "Butterokstar",
+    "image": "@/assets/images/pokemon/pokemon_68.png",
+    "type": "Dark",
+    "hp": 105,
+    "moves": ["Rest", "Dark Pulse", "Stone Edge", "Tail Whip"],
+    "weaknesses": ["Fairy", "Bug", "Fighting"]
+  },
+  {
+    "id": "69",
+    "name": "Ivyixo",
+    "image": "@/assets/images/pokemon/pokemon_69.png",
+    "type": "Bug",
+    "hp": 70,
+    "moves": ["Leech Seed", "Flamethrower", "Earthquake"],
+    "weaknesses": ["Flying", "Fire", "Rock"]
+  },
+  {
+    "id": "70",
+    "name": "Nidosaur",
+    "image": "@/assets/images/pokemon/pokemon_70.png",
+    "type": "Dragon",
+    "hp": 32,
+    "moves": ["Thunder Shock", "Quick Attack", "Earthquake", "Bite"],
+    "weaknesses": ["Dragon", "Fairy"]
+  },
+  {
+    "id": "71",
+    "name": "Venuchu",
+    "image": "@/assets/images/pokemon/pokemon_71.png",
+    "type": "Water",
+    "hp": 74,
+    "moves": ["Dark Pulse", "Tail Whip"],
+    "weaknesses": ["Electric", "Grass"]
+  },
+  {
+    "id": "72",
+    "name": "Blasto",
+    "image": "@/assets/images/pokemon/pokemon_72.png",
+    "type": "Grass",
+    "hp": 74,
+    "moves": ["Withdraw", "Thunder Shock"],
+    "weaknesses": ["Fire", "Bug", "Ice"]
+  },
+  {
+    "id": "73",
+    "name": "Blastomander",
+    "image": "@/assets/images/pokemon/pokemon_73.png",
+    "type": "Ghost",
+    "hp": 120,
+    "moves": ["Vine Whip", "Water Gun", "Earthquake"],
+    "weaknesses": ["Dark", "Ghost"]
+  },
+  {
+    "id": "74",
+    "name": "Clef",
+    "image": "@/assets/images/pokemon/pokemon_74.png",
+    "type": "Grass",
+    "hp": 44,
+    "moves": ["Hydro Pump", "Shadow Ball", "Tackle"],
+    "weaknesses": ["Bug", "Flying", "Ice"]
+  },
+  {
+    "id": "75",
+    "name": "Paratwomon",
+    "image": "@/assets/images/pokemon/pokemon_75.png",
+    "type": "Bug",
+    "hp": 120,
+    "moves": ["Ember", "Tail Whip"],
+    "weaknesses": ["Flying", "Fire"]
+  },
+  {
+    "id": "76",
+    "name": "Ekansfableo",
+    "image": "@/assets/images/pokemon/pokemon_76.png",
+    "type": "Fire",
+    "hp": 71,
+    "moves": ["Hyper Beam", "Poison Jab", "Scratch"],
+    "weaknesses": ["Water", "Rock"]
+  },
+  {
+    "id": "77",
+    "name": "Snortoise",
+    "image": "@/assets/images/pokemon/pokemon_77.png",
+    "type": "Normal",
+    "hp": 45,
+    "moves": ["Razor Leaf", "Withdraw"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "78",
+    "name": "Zubat",
+    "image": "@/assets/images/pokemon/pokemon_78.png",
+    "type": "Dark",
+    "hp": 48,
+    "moves": ["Dazzling Gleam", "Double Kick", "Quick Attack"],
+    "weaknesses": ["Fairy", "Bug", "Fighting"]
+  },
+  {
+    "id": "79",
+    "name": "Wart",
+    "image": "@/assets/images/pokemon/pokemon_79.png",
+    "type": "Water",
+    "hp": 55,
+    "moves": ["Hyper Beam", "Ember", "Iron Tail", "Hydro Pump"],
+    "weaknesses": ["Electric"]
+  },
+  {
+    "id": "80",
+    "name": "Wartvee",
+    "image": "@/assets/images/pokemon/pokemon_80.png",
+    "type": "Fighting",
+    "hp": 98,
+    "moves": ["Shadow Ball", "Thunderbolt", "Ember"],
+    "weaknesses": ["Flying", "Fairy", "Psychic"]
+  },
+  {
+    "id": "81",
+    "name": "Squirtoise",
+    "image": "@/assets/images/pokemon/pokemon_81.png",
+    "type": "Grass",
+    "hp": 80,
+    "moves": ["Thunderbolt", "Flamethrower"],
+    "weaknesses": ["Bug", "Flying", "Poison", "Ice", "Fire"]
+  },
+  {
+    "id": "82",
+    "name": "Ivytwokin",
+    "image": "@/assets/images/pokemon/pokemon_82.png",
+    "type": "Dragon",
+    "hp": 68,
+    "moves": ["Psycho Cut", "Dragon Claw", "Protect"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "83",
+    "name": "Pikatwo8",
+    "image": "@/assets/images/pokemon/pokemon_83.png",
+    "type": "Fairy",
+    "hp": 71,
+    "moves": ["Dark Pulse", "Ember"],
+    "weaknesses": ["Steel"]
+  },
+  {
+    "id": "84",
+    "name": "Spear",
+    "image": "@/assets/images/pokemon/pokemon_84.png",
+    "type": "Normal",
+    "hp": 41,
+    "moves": ["Bite", "Tail Whip", "Stone Edge", "Tackle"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "85",
+    "name": "Wartpie",
+    "image": "@/assets/images/pokemon/pokemon_85.png",
+    "type": "Ghost",
+    "hp": 64,
+    "moves": ["Leech Seed", "Flamethrower"],
+    "weaknesses": ["Ghost"]
+  },
+  {
+    "id": "86",
+    "name": "Jiggykin",
+    "image": "@/assets/images/pokemon/pokemon_86.png",
+    "type": "Ice",
+    "hp": 100,
+    "moves": ["Growl", "Hyper Beam"],
+    "weaknesses": ["Rock", "Fighting", "Fire", "Steel"]
+  },
+  {
+    "id": "87",
+    "name": "Squirbat",
+    "image": "@/assets/images/pokemon/pokemon_87.png",
+    "type": "Bug",
+    "hp": 57,
+    "moves": ["Bite", "Razor Leaf", "Psycho Cut", "Rest"],
+    "weaknesses": ["Rock"]
+  },
+  {
+    "id": "88",
+    "name": "Ekanssect",
+    "image": "@/assets/images/pokemon/pokemon_88.png",
+    "type": "Flying",
+    "hp": 68,
+    "moves": ["Water Gun", "Quick Attack", "Ember"],
+    "weaknesses": ["Rock", "Ice", "Electric"]
+  },
+  {
+    "id": "89",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_89.png",
+    "type": "Ground",
+    "hp": 91,
+    "moves": ["Growl", "Poison Jab", "Scratch", "Stone Edge"],
+    "weaknesses": ["Grass", "Water", "Ice"]
+  },
+  {
+    "id": "90",
+    "name": "Ivysect",
+    "image": "@/assets/images/pokemon/pokemon_90.png",
+    "type": "Rock",
+    "hp": 67,
+    "moves": ["Thunderbolt", "Hyper Beam", "Dazzling Gleam"],
+    "weaknesses": ["Fighting", "Steel", "Grass", "Water"]
+  },
+  {
+    "id": "91",
+    "name": "Pidgefree",
+    "image": "@/assets/images/pokemon/pokemon_91.png",
+    "type": "Bug",
+    "hp": 39,
+    "moves": ["Dragon Claw", "Bite"],
+    "weaknesses": ["Flying", "Fire", "Rock"]
+  },
+  {
+    "id": "92",
+    "name": "Eeveey",
+    "image": "@/assets/images/pokemon/pokemon_92.png",
+    "type": "Bug",
+    "hp": 80,
+    "moves": ["Flamethrower", "Dragon Claw", "Bite", "Quick Attack"],
+    "weaknesses": ["Rock", "Fire", "Flying"]
+  },
+  {
+    "id": "93",
+    "name": "Sand",
+    "image": "@/assets/images/pokemon/pokemon_93.png",
+    "type": "Water",
+    "hp": 51,
+    "moves": ["Iron Tail", "Flamethrower"],
+    "weaknesses": ["Grass", "Electric"]
+  },
+  {
+    "id": "94",
+    "name": "Sand",
+    "image": "@/assets/images/pokemon/pokemon_94.png",
+    "type": "Electric",
+    "hp": 31,
+    "moves": ["Thunder Shock", "Protect"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "95",
+    "name": "Sandrankin",
+    "image": "@/assets/images/pokemon/pokemon_95.png",
+    "type": "Psychic",
+    "hp": 65,
+    "moves": ["Stone Edge", "Water Gun", "Razor Leaf"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "96",
+    "name": "Nidochu",
+    "image": "@/assets/images/pokemon/pokemon_96.png",
+    "type": "Poison",
+    "hp": 60,
+    "moves": ["Stone Edge", "Tackle", "Withdraw"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "97",
+    "name": "Meta",
+    "image": "@/assets/images/pokemon/pokemon_97.png",
+    "type": "Flying",
+    "hp": 89,
+    "moves": ["Gust", "Flamethrower", "Vine Whip", "Ember"],
+    "weaknesses": ["Ice", "Electric", "Rock"]
+  },
+  {
+    "id": "98",
+    "name": "Oddchu",
+    "image": "@/assets/images/pokemon/pokemon_98.png",
+    "type": "Ghost",
+    "hp": 91,
+    "moves": ["Thunder Shock", "Hydro Pump", "Psycho Cut"],
+    "weaknesses": ["Dark", "Ghost"]
+  },
+  {
+    "id": "99",
+    "name": "Wartt",
+    "image": "@/assets/images/pokemon/pokemon_99.png",
+    "type": "Water",
+    "hp": 118,
+    "moves": ["Tackle", "Dark Pulse", "Psycho Cut"],
+    "weaknesses": ["Electric"]
+  },
+  {
+    "id": "100",
+    "name": "Bulbarow",
+    "image": "@/assets/images/pokemon/pokemon_100.png",
+    "type": "Ground",
+    "hp": 111,
+    "moves": ["Hydro Pump", "Stone Edge", "Psycho Cut", "Water Gun"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "101",
+    "name": "Caterlax",
+    "image": "@/assets/images/pokemon/pokemon_101.png",
+    "type": "Ice",
+    "hp": 86,
+    "moves": ["Hyper Beam", "Dragon Claw", "Scratch", "Poison Jab"],
+    "weaknesses": ["Fighting", "Rock", "Fire", "Steel"]
+  },
+  {
+    "id": "102",
+    "name": "Squirfreemon",
+    "image": "@/assets/images/pokemon/pokemon_102.png",
+    "type": "Dark",
+    "hp": 65,
+    "moves": ["Gust", "Ember"],
+    "weaknesses": ["Bug"]
+  },
+  {
+    "id": "103",
+    "name": "Pidgedonmon",
+    "image": "@/assets/images/pokemon/pokemon_103.png",
+    "type": "Rock",
+    "hp": 34,
+    "moves": ["Dragon Claw", "Tail Whip"],
+    "weaknesses": ["Water", "Ground"]
+  },
+  {
+    "id": "104",
+    "name": "Char",
+    "image": "@/assets/images/pokemon/pokemon_104.png",
+    "type": "Rock",
+    "hp": 79,
+    "moves": ["Dazzling Gleam", "Protect", "Leech Seed"],
+    "weaknesses": ["Fighting", "Water", "Ground", "Steel"]
+  },
+  {
+    "id": "105",
+    "name": "Blastolett",
+    "image": "@/assets/images/pokemon/pokemon_105.png",
+    "type": "Ground",
+    "hp": 99,
+    "moves": ["Growl", "Withdraw", "Earthquake", "Hyper Beam"],
+    "weaknesses": ["Ice", "Grass", "Water"]
+  },
+  {
+    "id": "106",
+    "name": "Ekanspod",
+    "image": "@/assets/images/pokemon/pokemon_106.png",
+    "type": "Psychic",
+    "hp": 62,
+    "moves": ["Stone Edge", "Iron Tail", "Hydro Pump", "Scratch"],
+    "weaknesses": ["Bug", "Ghost", "Dark"]
+  },
+  {
+    "id": "107",
+    "name": "Charmander",
+    "image": "@/assets/images/pokemon/pokemon_107.png",
+    "type": "Ghost",
+    "hp": 36,
+    "moves": ["Tail Whip", "Gust", "Quick Attack"],
+    "weaknesses": ["Ghost"]
+  },
+  {
+    "id": "108",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_108.png",
+    "type": "Fighting",
+    "hp": 83,
+    "moves": ["Razor Leaf", "Earthquake"],
+    "weaknesses": ["Psychic", "Fairy"]
+  },
+  {
+    "id": "109",
+    "name": "Vulpfreemon",
+    "image": "@/assets/images/pokemon/pokemon_109.png",
+    "type": "Fire",
+    "hp": 87,
+    "moves": ["Hydro Pump", "Leech Seed", "Dazzling Gleam", "Tail Whip"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "110",
+    "name": "Ratikstar",
+    "image": "@/assets/images/pokemon/pokemon_110.png",
+    "type": "Dragon",
+    "hp": 68,
+    "moves": ["Razor Leaf", "Growl", "Tail Whip", "Hyper Beam"],
+    "weaknesses": ["Ice", "Fairy"]
+  },
+  {
+    "id": "111",
+    "name": "Venubat",
+    "image": "@/assets/images/pokemon/pokemon_111.png",
+    "type": "Flying",
+    "hp": 72,
+    "moves": ["Growl", "Vine Whip", "Tail Whip"],
+    "weaknesses": ["Rock", "Ice"]
+  },
+  {
+    "id": "112",
+    "name": "Catery",
+    "image": "@/assets/images/pokemon/pokemon_112.png",
+    "type": "Psychic",
+    "hp": 65,
+    "moves": ["Vine Whip", "Ember", "Bug Buzz", "Poison Jab"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "113",
+    "name": "Spearsecto",
+    "image": "@/assets/images/pokemon/pokemon_113.png",
+    "type": "Psychic",
+    "hp": 112,
+    "moves": ["Thunder Shock", "Bug Buzz", "Flamethrower"],
+    "weaknesses": ["Bug", "Dark", "Ghost"]
+  },
+  {
+    "id": "114",
+    "name": "Clefsaurkin",
+    "image": "@/assets/images/pokemon/pokemon_114.png",
+    "type": "Dragon",
+    "hp": 76,
+    "moves": ["Dark Pulse", "Vine Whip"],
+    "weaknesses": ["Fairy", "Ice"]
+  },
+  {
+    "id": "115",
+    "name": "Wartdon",
+    "image": "@/assets/images/pokemon/pokemon_115.png",
+    "type": "Rock",
+    "hp": 81,
+    "moves": ["Earthquake", "Hyper Beam", "Poison Jab", "Ember"],
+    "weaknesses": ["Grass", "Ground", "Water"]
+  },
+  {
+    "id": "116",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_116.png",
+    "type": "Water",
+    "hp": 42,
+    "moves": ["Double Kick", "Dark Pulse", "Tackle", "Growl"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "117",
+    "name": "Butterbat",
+    "image": "@/assets/images/pokemon/pokemon_117.png",
+    "type": "Water",
+    "hp": 50,
+    "moves": ["Dark Pulse", "Psycho Cut"],
+    "weaknesses": ["Grass", "Electric"]
+  },
+  {
+    "id": "118",
+    "name": "Oddfable7",
+    "image": "@/assets/images/pokemon/pokemon_118.png",
+    "type": "Rock",
+    "hp": 46,
+    "moves": ["Thunderbolt", "Dragon Claw", "Thunder Shock", "Dark Pulse"],
+    "weaknesses": ["Ground", "Steel", "Fighting", "Grass", "Water"]
+  },
+  {
+    "id": "119",
+    "name": "Snorbat",
+    "image": "@/assets/images/pokemon/pokemon_119.png",
+    "type": "Ice",
+    "hp": 61,
+    "moves": ["Poison Jab", "Dazzling Gleam"],
+    "weaknesses": ["Fire", "Steel", "Rock", "Fighting"]
+  },
+  {
+    "id": "120",
+    "name": "Squirish",
+    "image": "@/assets/images/pokemon/pokemon_120.png",
+    "type": "Bug",
+    "hp": 64,
+    "moves": ["Psycho Cut", "Thunderbolt"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "121",
+    "name": "Blastoshrew",
+    "image": "@/assets/images/pokemon/pokemon_121.png",
+    "type": "Bug",
+    "hp": 99,
+    "moves": ["Protect", "Rest"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "122",
+    "name": "Pika",
+    "image": "@/assets/images/pokemon/pokemon_122.png",
+    "type": "Ghost",
+    "hp": 97,
+    "moves": ["Gust", "Scratch"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "123",
+    "name": "Catery6",
+    "image": "@/assets/images/pokemon/pokemon_123.png",
+    "type": "Ice",
+    "hp": 115,
+    "moves": ["Tackle", "Psycho Cut", "Thunder Shock"],
+    "weaknesses": ["Steel", "Fire", "Rock"]
+  },
+  {
+    "id": "124",
+    "name": "Nidoshrew",
+    "image": "@/assets/images/pokemon/pokemon_124.png",
+    "type": "Steel",
+    "hp": 88,
+    "moves": ["Flamethrower", "Water Gun"],
+    "weaknesses": ["Ground", "Fire", "Fighting"]
+  },
+  {
+    "id": "125",
+    "name": "Pidgefree",
+    "image": "@/assets/images/pokemon/pokemon_125.png",
+    "type": "Fire",
+    "hp": 41,
+    "moves": ["Leech Seed", "Iron Tail", "Growl"],
+    "weaknesses": ["Water", "Rock"]
+  },
+  {
+    "id": "126",
+    "name": "Arbochu",
+    "image": "@/assets/images/pokemon/pokemon_126.png",
+    "type": "Fairy",
+    "hp": 117,
+    "moves": ["Hydro Pump", "Earthquake", "Vine Whip"],
+    "weaknesses": ["Poison"]
+  },
+  {
+    "id": "127",
+    "name": "Dig",
+    "image": "@/assets/images/pokemon/pokemon_127.png",
+    "type": "Dark",
+    "hp": 46,
+    "moves": ["Shadow Ball", "Ember"],
+    "weaknesses": ["Bug"]
+  },
+  {
+    "id": "128",
+    "name": "Pidgeish",
+    "image": "@/assets/images/pokemon/pokemon_128.png",
+    "type": "Psychic",
+    "hp": 116,
+    "moves": ["Iron Tail", "Bite", "Bug Buzz", "Vine Whip"],
+    "weaknesses": ["Ghost", "Bug"]
+  },
+  {
+    "id": "129",
+    "name": "Eeveedon",
+    "image": "@/assets/images/pokemon/pokemon_129.png",
+    "type": "Flying",
+    "hp": 62,
+    "moves": ["Double Kick", "Hyper Beam", "Iron Tail", "Stone Edge"],
+    "weaknesses": ["Ice", "Electric"]
+  },
+  {
+    "id": "130",
+    "name": "Pikachu",
+    "image": "@/assets/images/pokemon/pokemon_130.png",
+    "type": "Ice",
+    "hp": 113,
+    "moves": ["Protect", "Dragon Claw"],
+    "weaknesses": ["Rock", "Steel", "Fire", "Fighting"]
+  },
+  {
+    "id": "131",
+    "name": "Bulbarowmon",
+    "image": "@/assets/images/pokemon/pokemon_131.png",
+    "type": "Flying",
+    "hp": 62,
+    "moves": ["Quick Attack", "Dark Pulse", "Bug Buzz", "Leech Seed"],
+    "weaknesses": ["Rock", "Ice", "Electric"]
+  },
+  {
+    "id": "132",
+    "name": "Oddish",
+    "image": "@/assets/images/pokemon/pokemon_132.png",
+    "type": "Dark",
+    "hp": 87,
+    "moves": ["Tackle", "Dragon Claw", "Tail Whip"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "133",
+    "name": "Vulplett",
+    "image": "@/assets/images/pokemon/pokemon_133.png",
+    "type": "Ghost",
+    "hp": 67,
+    "moves": ["Psycho Cut", "Thunderbolt", "Bite", "Earthquake"],
+    "weaknesses": ["Dark", "Ghost"]
+  },
+  {
+    "id": "134",
+    "name": "Wartdon",
+    "image": "@/assets/images/pokemon/pokemon_134.png",
+    "type": "Dark",
+    "hp": 45,
+    "moves": ["Scratch", "Earthquake"],
+    "weaknesses": ["Fighting", "Bug"]
+  },
+  {
+    "id": "135",
+    "name": "Sandchukin",
+    "image": "@/assets/images/pokemon/pokemon_135.png",
+    "type": "Water",
+    "hp": 91,
+    "moves": ["Bite", "Psycho Cut"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "136",
+    "name": "Zubattle",
+    "image": "@/assets/images/pokemon/pokemon_136.png",
+    "type": "Dragon",
+    "hp": 117,
+    "moves": ["Iron Tail", "Vine Whip"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "137",
+    "name": "Arbotwo",
+    "image": "@/assets/images/pokemon/pokemon_137.png",
+    "type": "Grass",
+    "hp": 69,
+    "moves": ["Thunder Shock", "Vine Whip", "Iron Tail"],
+    "weaknesses": ["Bug", "Poison", "Flying", "Fire", "Ice"]
+  },
+  {
+    "id": "138",
+    "name": "Pidgeveestar",
+    "image": "@/assets/images/pokemon/pokemon_138.png",
+    "type": "Electric",
+    "hp": 83,
+    "moves": ["Stone Edge", "Scratch", "Thunderbolt", "Bug Buzz"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "139",
+    "name": "Eeveechuo",
+    "image": "@/assets/images/pokemon/pokemon_139.png",
+    "type": "Fighting",
+    "hp": 65,
+    "moves": ["Razor Leaf", "Iron Tail", "Protect"],
+    "weaknesses": ["Psychic", "Fairy"]
+  },
+  {
+    "id": "140",
+    "name": "Zubatpod5",
+    "image": "@/assets/images/pokemon/pokemon_140.png",
+    "type": "Dragon",
+    "hp": 37,
+    "moves": ["Flamethrower", "Scratch", "Bug Buzz", "Bite"],
+    "weaknesses": ["Dragon", "Ice", "Fairy"]
+  },
+  {
+    "id": "141",
+    "name": "Pidgelypuffkin",
+    "image": "@/assets/images/pokemon/pokemon_141.png",
+    "type": "Water",
+    "hp": 40,
+    "moves": ["Poison Jab", "Tail Whip", "Ember", "Hydro Pump"],
+    "weaknesses": ["Electric", "Grass"]
+  },
+  {
+    "id": "142",
+    "name": "Nido",
+    "image": "@/assets/images/pokemon/pokemon_142.png",
+    "type": "Flying",
+    "hp": 60,
+    "moves": ["Tail Whip", "Rest", "Gust"],
+    "weaknesses": ["Rock", "Electric"]
+  },
+  {
+    "id": "143",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_143.png",
+    "type": "Poison",
+    "hp": 73,
+    "moves": ["Withdraw", "Protect", "Tackle"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "144",
+    "name": "Mewsaur",
+    "image": "@/assets/images/pokemon/pokemon_144.png",
+    "type": "Ghost",
+    "hp": 66,
+    "moves": ["Stone Edge", "Razor Leaf", "Double Kick"],
+    "weaknesses": ["Dark", "Ghost"]
+  },
+  {
+    "id": "145",
+    "name": "Buttersaurmon",
+    "image": "@/assets/images/pokemon/pokemon_145.png",
+    "type": "Normal",
+    "hp": 88,
+    "moves": ["Iron Tail", "Dazzling Gleam", "Hydro Pump"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "146",
+    "name": "Pidge",
+    "image": "@/assets/images/pokemon/pokemon_146.png",
+    "type": "Ground",
+    "hp": 95,
+    "moves": ["Dragon Claw", "Growl", "Hydro Pump", "Ember"],
+    "weaknesses": ["Grass", "Ice", "Water"]
+  },
+  {
+    "id": "147",
+    "name": "Blastotwokin",
+    "image": "@/assets/images/pokemon/pokemon_147.png",
+    "type": "Electric",
+    "hp": 120,
+    "moves": ["Tail Whip", "Quick Attack"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "148",
+    "name": "Arbopod",
+    "image": "@/assets/images/pokemon/pokemon_148.png",
+    "type": "Fighting",
+    "hp": 81,
+    "moves": ["Razor Leaf", "Bite"],
+    "weaknesses": ["Fairy", "Psychic"]
+  },
+  {
+    "id": "149",
+    "name": "Vulpk",
+    "image": "@/assets/images/pokemon/pokemon_149.png",
+    "type": "Fire",
+    "hp": 115,
+    "moves": ["Dark Pulse", "Shadow Ball", "Hydro Pump"],
+    "weaknesses": ["Water", "Rock", "Ground"]
+  },
+  {
+    "id": "150",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_150.png",
+    "type": "Dragon",
+    "hp": 99,
+    "moves": ["Earthquake", "Double Kick"],
+    "weaknesses": ["Ice", "Dragon", "Fairy"]
+  },
+  {
+    "id": "151",
+    "name": "Ratisect",
+    "image": "@/assets/images/pokemon/pokemon_151.png",
+    "type": "Normal",
+    "hp": 85,
+    "moves": ["Thunderbolt", "Psycho Cut", "Tackle", "Double Kick"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "152",
+    "name": "Eeveepod",
+    "image": "@/assets/images/pokemon/pokemon_152.png",
+    "type": "Psychic",
+    "hp": 101,
+    "moves": ["Hydro Pump", "Scratch"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "153",
+    "name": "Oddsaurstar",
+    "image": "@/assets/images/pokemon/pokemon_153.png",
+    "type": "Fairy",
+    "hp": 109,
+    "moves": ["Growl", "Protect", "Iron Tail"],
+    "weaknesses": ["Steel", "Poison"]
+  },
+  {
+    "id": "154",
+    "name": "Cleftle3",
+    "image": "@/assets/images/pokemon/pokemon_154.png",
+    "type": "Ghost",
+    "hp": 46,
+    "moves": ["Double Kick", "Razor Leaf", "Shadow Ball"],
+    "weaknesses": ["Dark", "Ghost"]
+  },
+  {
+    "id": "155",
+    "name": "Pidge",
+    "image": "@/assets/images/pokemon/pokemon_155.png",
+    "type": "Rock",
+    "hp": 104,
+    "moves": ["Earthquake", "Tackle"],
+    "weaknesses": ["Water", "Grass", "Ground", "Steel", "Fighting"]
+  },
+  {
+    "id": "156",
+    "name": "Cleffreeo",
+    "image": "@/assets/images/pokemon/pokemon_156.png",
+    "type": "Ice",
+    "hp": 88,
+    "moves": ["Vine Whip", "Quick Attack", "Bug Buzz", "Hyper Beam"],
+    "weaknesses": ["Rock", "Fighting", "Fire"]
+  },
+  {
+    "id": "157",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_157.png",
+    "type": "Bug",
+    "hp": 82,
+    "moves": ["Dazzling Gleam", "Bug Buzz"],
+    "weaknesses": ["Fire", "Flying", "Rock"]
+  },
+  {
+    "id": "158",
+    "name": "Nido",
+    "image": "@/assets/images/pokemon/pokemon_158.png",
+    "type": "Ghost",
+    "hp": 117,
+    "moves": ["Thunderbolt", "Iron Tail"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "159",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_159.png",
+    "type": "Bug",
+    "hp": 106,
+    "moves": ["Stone Edge", "Water Gun"],
+    "weaknesses": ["Flying", "Rock"]
+  },
+  {
+    "id": "160",
+    "name": "Digchu",
+    "image": "@/assets/images/pokemon/pokemon_160.png",
+    "type": "Ground",
+    "hp": 54,
+    "moves": ["Tail Whip", "Leech Seed"],
+    "weaknesses": ["Ice", "Grass", "Water"]
+  },
+  {
+    "id": "161",
+    "name": "Eeveeranstar",
+    "image": "@/assets/images/pokemon/pokemon_161.png",
+    "type": "Ice",
+    "hp": 37,
+    "moves": ["Protect", "Withdraw", "Scratch"],
+    "weaknesses": ["Fire", "Fighting", "Steel"]
+  },
+  {
+    "id": "162",
+    "name": "Zubattoise",
+    "image": "@/assets/images/pokemon/pokemon_162.png",
+    "type": "Grass",
+    "hp": 31,
+    "moves": ["Tackle", "Withdraw", "Dazzling Gleam"],
+    "weaknesses": ["Poison", "Flying", "Bug", "Fire"]
+  },
+  {
+    "id": "163",
+    "name": "Spearpie",
+    "image": "@/assets/images/pokemon/pokemon_163.png",
+    "type": "Rock",
+    "hp": 33,
+    "moves": ["Bug Buzz", "Flamethrower"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "164",
+    "name": "Pikaix",
+    "image": "@/assets/images/pokemon/pokemon_164.png",
+    "type": "Dragon",
+    "hp": 91,
+    "moves": ["Vine Whip", "Iron Tail", "Tail Whip", "Double Kick"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "165",
+    "name": "Butter",
+    "image": "@/assets/images/pokemon/pokemon_165.png",
+    "type": "Ice",
+    "hp": 41,
+    "moves": ["Flamethrower", "Hyper Beam", "Ember", "Thunderbolt"],
+    "weaknesses": ["Rock", "Fighting", "Steel", "Fire"]
+  },
+  {
+    "id": "166",
+    "name": "Eeveefree",
+    "image": "@/assets/images/pokemon/pokemon_166.png",
+    "type": "Electric",
+    "hp": 40,
+    "moves": ["Quick Attack", "Bite", "Dragon Claw", "Ember"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "167",
+    "name": "Nidodon",
+    "image": "@/assets/images/pokemon/pokemon_167.png",
+    "type": "Grass",
+    "hp": 62,
+    "moves": ["Poison Jab", "Hydro Pump", "Quick Attack"],
+    "weaknesses": ["Fire", "Ice", "Flying"]
+  },
+  {
+    "id": "168",
+    "name": "Squir",
+    "image": "@/assets/images/pokemon/pokemon_168.png",
+    "type": "Electric",
+    "hp": 76,
+    "moves": ["Thunderbolt", "Hydro Pump"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "169",
+    "name": "Ivyfree",
+    "image": "@/assets/images/pokemon/pokemon_169.png",
+    "type": "Ghost",
+    "hp": 115,
+    "moves": ["Flamethrower", "Leech Seed", "Withdraw"],
+    "weaknesses": ["Ghost"]
+  },
+  {
+    "id": "170",
+    "name": "Wartpiekin",
+    "image": "@/assets/images/pokemon/pokemon_170.png",
+    "type": "Psychic",
+    "hp": 91,
+    "moves": ["Psycho Cut", "Bite", "Ember", "Stone Edge"],
+    "weaknesses": ["Bug", "Ghost"]
+  },
+  {
+    "id": "171",
+    "name": "Wart",
+    "image": "@/assets/images/pokemon/pokemon_171.png",
+    "type": "Dark",
+    "hp": 92,
+    "moves": ["Bug Buzz", "Gust", "Iron Tail"],
+    "weaknesses": ["Fairy", "Bug"]
+  },
+  {
+    "id": "172",
+    "name": "Digtle",
+    "image": "@/assets/images/pokemon/pokemon_172.png",
+    "type": "Psychic",
+    "hp": 56,
+    "moves": ["Growl", "Water Gun", "Tackle", "Thunderbolt"],
+    "weaknesses": ["Bug", "Dark"]
+  },
+  {
+    "id": "173",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_173.png",
+    "type": "Normal",
+    "hp": 116,
+    "moves": ["Growl", "Gust", "Poison Jab"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "174",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_174.png",
+    "type": "Ice",
+    "hp": 114,
+    "moves": ["Growl", "Tackle", "Hyper Beam", "Hydro Pump"],
+    "weaknesses": ["Fire", "Rock", "Steel", "Fighting"]
+  },
+  {
+    "id": "175",
+    "name": "Squirshrewo",
+    "image": "@/assets/images/pokemon/pokemon_175.png",
+    "type": "Ground",
+    "hp": 113,
+    "moves": ["Stone Edge", "Shadow Ball"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "176",
+    "name": "Snordonmon",
+    "image": "@/assets/images/pokemon/pokemon_176.png",
+    "type": "Flying",
+    "hp": 70,
+    "moves": ["Protect", "Dragon Claw", "Poison Jab", "Quick Attack"],
+    "weaknesses": ["Ice", "Electric"]
+  },
+  {
+    "id": "177",
+    "name": "Pikaran",
+    "image": "@/assets/images/pokemon/pokemon_177.png",
+    "type": "Steel",
+    "hp": 40,
+    "moves": ["Dragon Claw", "Gust", "Flamethrower", "Growl"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "178",
+    "name": "Squirsectmon",
+    "image": "@/assets/images/pokemon/pokemon_178.png",
+    "type": "Water",
+    "hp": 45,
+    "moves": ["Withdraw", "Hyper Beam", "Water Gun"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "179",
+    "name": "Pikasaur",
+    "image": "@/assets/images/pokemon/pokemon_179.png",
+    "type": "Water",
+    "hp": 49,
+    "moves": ["Double Kick", "Water Gun", "Hyper Beam", "Scratch"],
+    "weaknesses": ["Electric"]
+  },
+  {
+    "id": "180",
+    "name": "Metafreemon",
+    "image": "@/assets/images/pokemon/pokemon_180.png",
+    "type": "Dragon",
+    "hp": 112,
+    "moves": ["Iron Tail", "Shadow Ball", "Ember", "Tackle"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "181",
+    "name": "Spearish",
+    "image": "@/assets/images/pokemon/pokemon_181.png",
+    "type": "Ground",
+    "hp": 67,
+    "moves": ["Double Kick", "Stone Edge", "Tail Whip"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "182",
+    "name": "Zubatk",
+    "image": "@/assets/images/pokemon/pokemon_182.png",
+    "type": "Grass",
+    "hp": 32,
+    "moves": ["Rest", "Iron Tail", "Withdraw", "Water Gun"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "183",
+    "name": "Bulbatoise",
+    "image": "@/assets/images/pokemon/pokemon_183.png",
+    "type": "Ghost",
+    "hp": 55,
+    "moves": ["Razor Leaf", "Water Gun"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "184",
+    "name": "Caterpod",
+    "image": "@/assets/images/pokemon/pokemon_184.png",
+    "type": "Dragon",
+    "hp": 31,
+    "moves": ["Ember", "Flamethrower", "Withdraw"],
+    "weaknesses": ["Ice", "Dragon"]
+  },
+  {
+    "id": "185",
+    "name": "Eeveevee",
+    "image": "@/assets/images/pokemon/pokemon_185.png",
+    "type": "Flying",
+    "hp": 101,
+    "moves": ["Bite", "Growl"],
+    "weaknesses": ["Ice", "Electric", "Rock"]
+  },
+  {
+    "id": "186",
+    "name": "Squirt",
+    "image": "@/assets/images/pokemon/pokemon_186.png",
+    "type": "Ghost",
+    "hp": 83,
+    "moves": ["Flamethrower", "Shadow Ball", "Psycho Cut", "Gust"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "187",
+    "name": "Dig",
+    "image": "@/assets/images/pokemon/pokemon_187.png",
+    "type": "Ice",
+    "hp": 40,
+    "moves": ["Water Gun", "Double Kick", "Protect", "Gust"],
+    "weaknesses": ["Fighting", "Rock", "Steel", "Fire"]
+  },
+  {
+    "id": "188",
+    "name": "Zubatfable",
+    "image": "@/assets/images/pokemon/pokemon_188.png",
+    "type": "Water",
+    "hp": 110,
+    "moves": ["Leech Seed", "Hydro Pump"],
+    "weaknesses": ["Electric", "Grass"]
+  },
+  {
+    "id": "189",
+    "name": "Squirvee7",
+    "image": "@/assets/images/pokemon/pokemon_189.png",
+    "type": "Ice",
+    "hp": 85,
+    "moves": ["Hydro Pump", "Stone Edge", "Dazzling Gleam"],
+    "weaknesses": ["Rock", "Fighting", "Steel"]
+  },
+  {
+    "id": "190",
+    "name": "Zubatpie",
+    "image": "@/assets/images/pokemon/pokemon_190.png",
+    "type": "Ice",
+    "hp": 46,
+    "moves": ["Withdraw", "Tackle", "Tail Whip", "Bug Buzz"],
+    "weaknesses": ["Fighting", "Fire"]
+  },
+  {
+    "id": "191",
+    "name": "Wartpodo",
+    "image": "@/assets/images/pokemon/pokemon_191.png",
+    "type": "Normal",
+    "hp": 62,
+    "moves": ["Shadow Ball", "Tackle"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "192",
+    "name": "Spear",
+    "image": "@/assets/images/pokemon/pokemon_192.png",
+    "type": "Grass",
+    "hp": 58,
+    "moves": ["Hydro Pump", "Iron Tail", "Bite", "Protect"],
+    "weaknesses": ["Bug", "Flying", "Poison", "Fire"]
+  },
+  {
+    "id": "193",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_193.png",
+    "type": "Electric",
+    "hp": 53,
+    "moves": ["Quick Attack", "Scratch", "Gust", "Poison Jab"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "194",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_194.png",
+    "type": "Bug",
+    "hp": 113,
+    "moves": ["Tackle", "Leech Seed"],
+    "weaknesses": ["Fire", "Rock", "Flying"]
+  },
+  {
+    "id": "195",
+    "name": "Ivytwo",
+    "image": "@/assets/images/pokemon/pokemon_195.png",
+    "type": "Flying",
+    "hp": 34,
+    "moves": ["Gust", "Dark Pulse", "Rest", "Shadow Ball"],
+    "weaknesses": ["Ice", "Electric", "Rock"]
+  },
+  {
+    "id": "196",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_196.png",
+    "type": "Normal",
+    "hp": 89,
+    "moves": ["Gust", "Thunder Shock", "Leech Seed"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "197",
+    "name": "Snorchu",
+    "image": "@/assets/images/pokemon/pokemon_197.png",
+    "type": "Bug",
+    "hp": 53,
+    "moves": ["Water Gun", "Hyper Beam", "Protect"],
+    "weaknesses": ["Fire"]
+  },
+  {
+    "id": "198",
+    "name": "Squirokstar",
+    "image": "@/assets/images/pokemon/pokemon_198.png",
+    "type": "Bug",
+    "hp": 92,
+    "moves": ["Iron Tail", "Scratch", "Ember", "Dazzling Gleam"],
+    "weaknesses": ["Fire"]
+  },
+  {
+    "id": "199",
+    "name": "Oddlett",
+    "image": "@/assets/images/pokemon/pokemon_199.png",
+    "type": "Ground",
+    "hp": 37,
+    "moves": ["Hydro Pump", "Razor Leaf", "Tail Whip", "Gust"],
+    "weaknesses": ["Grass", "Ice", "Water"]
+  },
+  {
+    "id": "200",
+    "name": "Para",
+    "image": "@/assets/images/pokemon/pokemon_200.png",
+    "type": "Rock",
+    "hp": 44,
+    "moves": ["Poison Jab", "Growl", "Stone Edge"],
+    "weaknesses": ["Grass", "Steel", "Water", "Ground"]
+  },
+  {
+    "id": "201",
+    "name": "Clef",
+    "image": "@/assets/images/pokemon/pokemon_201.png",
+    "type": "Psychic",
+    "hp": 73,
+    "moves": ["Bite", "Rest", "Gust"],
+    "weaknesses": ["Dark", "Bug", "Ghost"]
+  },
+  {
+    "id": "202",
+    "name": "Ivytlekin",
+    "image": "@/assets/images/pokemon/pokemon_202.png",
+    "type": "Dragon",
+    "hp": 56,
+    "moves": ["Poison Jab", "Flamethrower", "Hydro Pump"],
+    "weaknesses": ["Dragon", "Ice", "Fairy"]
+  },
+  {
+    "id": "203",
+    "name": "Snordon",
+    "image": "@/assets/images/pokemon/pokemon_203.png",
+    "type": "Electric",
+    "hp": 75,
+    "moves": ["Flamethrower", "Tackle", "Scratch", "Iron Tail"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "204",
+    "name": "Raichu",
+    "image": "@/assets/images/pokemon/pokemon_204.png",
+    "type": "Ice",
+    "hp": 100,
+    "moves": ["Quick Attack", "Hyper Beam"],
+    "weaknesses": ["Fighting", "Steel", "Fire"]
+  },
+  {
+    "id": "205",
+    "name": "Jiggdonmon",
+    "image": "@/assets/images/pokemon/pokemon_205.png",
+    "type": "Ghost",
+    "hp": 105,
+    "moves": ["Poison Jab", "Shadow Ball"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "206",
+    "name": "Vulp",
+    "image": "@/assets/images/pokemon/pokemon_206.png",
+    "type": "Psychic",
+    "hp": 110,
+    "moves": ["Withdraw", "Water Gun", "Bite"],
+    "weaknesses": ["Bug", "Ghost", "Dark"]
+  },
+  {
+    "id": "207",
+    "name": "Digvee",
+    "image": "@/assets/images/pokemon/pokemon_207.png",
+    "type": "Fire",
+    "hp": 119,
+    "moves": ["Tackle", "Dragon Claw", "Hyper Beam"],
+    "weaknesses": ["Water", "Ground", "Rock"]
+  },
+  {
+    "id": "208",
+    "name": "Para",
+    "image": "@/assets/images/pokemon/pokemon_208.png",
+    "type": "Dark",
+    "hp": 119,
+    "moves": ["Hydro Pump", "Double Kick", "Thunderbolt"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "209",
+    "name": "Ivypod",
+    "image": "@/assets/images/pokemon/pokemon_209.png",
+    "type": "Ground",
+    "hp": 75,
+    "moves": ["Flamethrower", "Vine Whip"],
+    "weaknesses": ["Water", "Grass"]
+  },
+  {
+    "id": "210",
+    "name": "Snorsaurstar",
+    "image": "@/assets/images/pokemon/pokemon_210.png",
+    "type": "Ghost",
+    "hp": 96,
+    "moves": ["Earthquake", "Leech Seed", "Hydro Pump", "Protect"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "211",
+    "name": "Ivyran",
+    "image": "@/assets/images/pokemon/pokemon_211.png",
+    "type": "Poison",
+    "hp": 83,
+    "moves": ["Hyper Beam", "Iron Tail"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "212",
+    "name": "Rati",
+    "image": "@/assets/images/pokemon/pokemon_212.png",
+    "type": "Electric",
+    "hp": 84,
+    "moves": ["Tail Whip", "Double Kick"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "213",
+    "name": "Vulp",
+    "image": "@/assets/images/pokemon/pokemon_213.png",
+    "type": "Rock",
+    "hp": 44,
+    "moves": ["Scratch", "Poison Jab"],
+    "weaknesses": ["Water", "Fighting", "Ground"]
+  },
+  {
+    "id": "214",
+    "name": "Snorchu",
+    "image": "@/assets/images/pokemon/pokemon_214.png",
+    "type": "Water",
+    "hp": 95,
+    "moves": ["Scratch", "Leech Seed", "Hyper Beam", "Bug Buzz"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "215",
+    "name": "Spear",
+    "image": "@/assets/images/pokemon/pokemon_215.png",
+    "type": "Psychic",
+    "hp": 114,
+    "moves": ["Stone Edge", "Gust", "Thunder Shock", "Water Gun"],
+    "weaknesses": ["Ghost", "Bug", "Dark"]
+  },
+  {
+    "id": "216",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_216.png",
+    "type": "Normal",
+    "hp": 35,
+    "moves": ["Gust", "Hyper Beam"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "217",
+    "name": "Clefy6",
+    "image": "@/assets/images/pokemon/pokemon_217.png",
+    "type": "Fire",
+    "hp": 100,
+    "moves": ["Gust", "Iron Tail", "Protect"],
+    "weaknesses": ["Rock"]
+  },
+  {
+    "id": "218",
+    "name": "Oddsaur",
+    "image": "@/assets/images/pokemon/pokemon_218.png",
+    "type": "Ghost",
+    "hp": 86,
+    "moves": ["Dark Pulse", "Withdraw", "Flamethrower", "Bug Buzz"],
+    "weaknesses": ["Dark", "Ghost"]
+  },
+  {
+    "id": "219",
+    "name": "Mew",
+    "image": "@/assets/images/pokemon/pokemon_219.png",
+    "type": "Psychic",
+    "hp": 87,
+    "moves": ["Quick Attack", "Earthquake", "Vine Whip", "Dark Pulse"],
+    "weaknesses": ["Bug", "Dark"]
+  },
+  {
+    "id": "220",
+    "name": "Bulbalax",
+    "image": "@/assets/images/pokemon/pokemon_220.png",
+    "type": "Dragon",
+    "hp": 120,
+    "moves": ["Earthquake", "Dragon Claw", "Psycho Cut", "Quick Attack"],
+    "weaknesses": ["Ice", "Fairy"]
+  },
+  {
+    "id": "221",
+    "name": "Venudon",
+    "image": "@/assets/images/pokemon/pokemon_221.png",
+    "type": "Electric",
+    "hp": 52,
+    "moves": ["Bite", "Iron Tail", "Dragon Claw", "Quick Attack"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "222",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_222.png",
+    "type": "Steel",
+    "hp": 63,
+    "moves": ["Ember", "Stone Edge"],
+    "weaknesses": ["Fire"]
+  },
+  {
+    "id": "223",
+    "name": "Metalettkin",
+    "image": "@/assets/images/pokemon/pokemon_223.png",
+    "type": "Bug",
+    "hp": 37,
+    "moves": ["Double Kick", "Thunderbolt", "Bite"],
+    "weaknesses": ["Flying", "Fire"]
+  },
+  {
+    "id": "224",
+    "name": "Bulbapodkin",
+    "image": "@/assets/images/pokemon/pokemon_224.png",
+    "type": "Fire",
+    "hp": 53,
+    "moves": ["Vine Whip", "Hyper Beam", "Bite"],
+    "weaknesses": ["Water", "Rock", "Ground"]
+  },
+  {
+    "id": "225",
+    "name": "Nidopiemon",
+    "image": "@/assets/images/pokemon/pokemon_225.png",
+    "type": "Fighting",
+    "hp": 35,
+    "moves": ["Stone Edge", "Flamethrower", "Tail Whip"],
+    "weaknesses": ["Fairy", "Flying", "Psychic"]
+  },
+  {
+    "id": "226",
+    "name": "Ivylett",
+    "image": "@/assets/images/pokemon/pokemon_226.png",
+    "type": "Flying",
+    "hp": 114,
+    "moves": ["Iron Tail", "Protect", "Rest", "Water Gun"],
+    "weaknesses": ["Electric", "Rock", "Ice"]
+  },
+  {
+    "id": "227",
+    "name": "Squirt",
+    "image": "@/assets/images/pokemon/pokemon_227.png",
+    "type": "Psychic",
+    "hp": 55,
+    "moves": ["Quick Attack", "Psycho Cut", "Dark Pulse"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "228",
+    "name": "Paraix",
+    "image": "@/assets/images/pokemon/pokemon_228.png",
+    "type": "Fighting",
+    "hp": 98,
+    "moves": ["Withdraw", "Shadow Ball", "Protect", "Thunderbolt"],
+    "weaknesses": ["Psychic", "Fairy", "Flying"]
+  },
+  {
+    "id": "229",
+    "name": "Clef",
+    "image": "@/assets/images/pokemon/pokemon_229.png",
+    "type": "Ice",
+    "hp": 88,
+    "moves": ["Iron Tail", "Tackle", "Tail Whip"],
+    "weaknesses": ["Fire", "Steel", "Rock", "Fighting"]
+  },
+  {
+    "id": "230",
+    "name": "Vulp",
+    "image": "@/assets/images/pokemon/pokemon_230.png",
+    "type": "Ground",
+    "hp": 42,
+    "moves": ["Bite", "Thunder Shock"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "231",
+    "name": "Metachu",
+    "image": "@/assets/images/pokemon/pokemon_231.png",
+    "type": "Fairy",
+    "hp": 84,
+    "moves": ["Growl", "Bite"],
+    "weaknesses": ["Steel", "Poison"]
+  },
+  {
+    "id": "232",
+    "name": "Diglax",
+    "image": "@/assets/images/pokemon/pokemon_232.png",
+    "type": "Poison",
+    "hp": 80,
+    "moves": ["Leech Seed", "Vine Whip"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "233",
+    "name": "Zubat",
+    "image": "@/assets/images/pokemon/pokemon_233.png",
+    "type": "Flying",
+    "hp": 89,
+    "moves": ["Growl", "Flamethrower"],
+    "weaknesses": ["Ice", "Rock", "Electric"]
+  },
+  {
+    "id": "234",
+    "name": "Raichu",
+    "image": "@/assets/images/pokemon/pokemon_234.png",
+    "type": "Psychic",
+    "hp": 45,
+    "moves": ["Bite", "Gust", "Thunder Shock"],
+    "weaknesses": ["Bug", "Ghost", "Dark"]
+  },
+  {
+    "id": "235",
+    "name": "Sand",
+    "image": "@/assets/images/pokemon/pokemon_235.png",
+    "type": "Ghost",
+    "hp": 40,
+    "moves": ["Dazzling Gleam", "Dragon Claw", "Thunderbolt"],
+    "weaknesses": ["Dark", "Ghost"]
+  },
+  {
+    "id": "236",
+    "name": "Vulpsaur1",
+    "image": "@/assets/images/pokemon/pokemon_236.png",
+    "type": "Ice",
+    "hp": 55,
+    "moves": ["Flamethrower", "Stone Edge", "Dark Pulse", "Dazzling Gleam"],
+    "weaknesses": ["Steel", "Fire", "Rock", "Fighting"]
+  },
+  {
+    "id": "237",
+    "name": "Clefix9",
+    "image": "@/assets/images/pokemon/pokemon_237.png",
+    "type": "Bug",
+    "hp": 95,
+    "moves": ["Double Kick", "Protect", "Iron Tail", "Tackle"],
+    "weaknesses": ["Rock", "Fire"]
+  },
+  {
+    "id": "238",
+    "name": "Char",
+    "image": "@/assets/images/pokemon/pokemon_238.png",
+    "type": "Grass",
+    "hp": 72,
+    "moves": ["Ember", "Tail Whip"],
+    "weaknesses": ["Poison", "Ice"]
+  },
+  {
+    "id": "239",
+    "name": "Bulbafable",
+    "image": "@/assets/images/pokemon/pokemon_239.png",
+    "type": "Bug",
+    "hp": 44,
+    "moves": ["Dazzling Gleam", "Earthquake"],
+    "weaknesses": ["Fire"]
+  },
+  {
+    "id": "240",
+    "name": "Zubattle",
+    "image": "@/assets/images/pokemon/pokemon_240.png",
+    "type": "Electric",
+    "hp": 72,
+    "moves": ["Bite", "Double Kick", "Withdraw"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "241",
+    "name": "Zubatveestar",
+    "image": "@/assets/images/pokemon/pokemon_241.png",
+    "type": "Poison",
+    "hp": 76,
+    "moves": ["Thunderbolt", "Rest", "Thunder Shock"],
+    "weaknesses": ["Psychic", "Ground"]
+  },
+  {
+    "id": "242",
+    "name": "Metatstar",
+    "image": "@/assets/images/pokemon/pokemon_242.png",
+    "type": "Bug",
+    "hp": 92,
+    "moves": ["Growl", "Leech Seed"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "243",
+    "name": "Raichutwo8",
+    "image": "@/assets/images/pokemon/pokemon_243.png",
+    "type": "Water",
+    "hp": 114,
+    "moves": ["Shadow Ball", "Leech Seed", "Thunderbolt"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "244",
+    "name": "Nidok",
+    "image": "@/assets/images/pokemon/pokemon_244.png",
+    "type": "Ground",
+    "hp": 57,
+    "moves": ["Quick Attack", "Hydro Pump", "Thunderbolt", "Iron Tail"],
+    "weaknesses": ["Water", "Ice", "Grass"]
+  },
+  {
+    "id": "245",
+    "name": "Raichu",
+    "image": "@/assets/images/pokemon/pokemon_245.png",
+    "type": "Ice",
+    "hp": 94,
+    "moves": ["Growl", "Hyper Beam"],
+    "weaknesses": ["Fire", "Steel", "Rock", "Fighting"]
+  },
+  {
+    "id": "246",
+    "name": "Bulbarow",
+    "image": "@/assets/images/pokemon/pokemon_246.png",
+    "type": "Psychic",
+    "hp": 43,
+    "moves": ["Thunder Shock", "Flamethrower"],
+    "weaknesses": ["Dark", "Ghost", "Bug"]
+  },
+  {
+    "id": "247",
+    "name": "Butter",
+    "image": "@/assets/images/pokemon/pokemon_247.png",
+    "type": "Ghost",
+    "hp": 35,
+    "moves": ["Rest", "Poison Jab", "Iron Tail"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "248",
+    "name": "Blastotoisemon",
+    "image": "@/assets/images/pokemon/pokemon_248.png",
+    "type": "Fighting",
+    "hp": 93,
+    "moves": ["Double Kick", "Tackle"],
+    "weaknesses": ["Flying", "Psychic"]
+  },
+  {
+    "id": "249",
+    "name": "Spear",
+    "image": "@/assets/images/pokemon/pokemon_249.png",
+    "type": "Fighting",
+    "hp": 47,
+    "moves": ["Rest", "Stone Edge"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "250",
+    "name": "Pararanmon",
+    "image": "@/assets/images/pokemon/pokemon_250.png",
+    "type": "Fire",
+    "hp": 111,
+    "moves": ["Ember", "Stone Edge"],
+    "weaknesses": ["Rock", "Ground", "Water"]
+  },
+  {
+    "id": "251",
+    "name": "Snorlypuff",
+    "image": "@/assets/images/pokemon/pokemon_251.png",
+    "type": "Fairy",
+    "hp": 106,
+    "moves": ["Ember", "Iron Tail", "Vine Whip", "Dazzling Gleam"],
+    "weaknesses": ["Steel"]
+  },
+  {
+    "id": "252",
+    "name": "Bulbatwo",
+    "image": "@/assets/images/pokemon/pokemon_252.png",
+    "type": "Fighting",
+    "hp": 100,
+    "moves": ["Double Kick", "Growl", "Stone Edge", "Flamethrower"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "253",
+    "name": "Speart",
+    "image": "@/assets/images/pokemon/pokemon_253.png",
+    "type": "Fire",
+    "hp": 109,
+    "moves": ["Hydro Pump", "Psycho Cut", "Stone Edge"],
+    "weaknesses": ["Water", "Rock", "Ground"]
+  },
+  {
+    "id": "254",
+    "name": "Wartbat",
+    "image": "@/assets/images/pokemon/pokemon_254.png",
+    "type": "Fighting",
+    "hp": 62,
+    "moves": ["Hyper Beam", "Dragon Claw"],
+    "weaknesses": ["Fairy", "Psychic", "Flying"]
+  },
+  {
+    "id": "255",
+    "name": "Blasto",
+    "image": "@/assets/images/pokemon/pokemon_255.png",
+    "type": "Water",
+    "hp": 30,
+    "moves": ["Razor Leaf", "Quick Attack", "Rest"],
+    "weaknesses": ["Electric", "Grass"]
+  },
+  {
+    "id": "256",
+    "name": "Buttertwoo",
+    "image": "@/assets/images/pokemon/pokemon_256.png",
+    "type": "Steel",
+    "hp": 107,
+    "moves": ["Tail Whip", "Dazzling Gleam"],
+    "weaknesses": ["Fire", "Fighting", "Ground"]
+  },
+  {
+    "id": "257",
+    "name": "Jiggpod",
+    "image": "@/assets/images/pokemon/pokemon_257.png",
+    "type": "Steel",
+    "hp": 102,
+    "moves": ["Water Gun", "Tail Whip", "Vine Whip"],
+    "weaknesses": ["Ground", "Fighting", "Fire"]
+  },
+  {
+    "id": "258",
+    "name": "Zubat",
+    "image": "@/assets/images/pokemon/pokemon_258.png",
+    "type": "Fairy",
+    "hp": 55,
+    "moves": ["Razor Leaf", "Protect", "Withdraw"],
+    "weaknesses": ["Poison"]
+  },
+  {
+    "id": "259",
+    "name": "Butterfableo",
+    "image": "@/assets/images/pokemon/pokemon_259.png",
+    "type": "Ground",
+    "hp": 105,
+    "moves": ["Hydro Pump", "Rest", "Shadow Ball"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "260",
+    "name": "Jiggix",
+    "image": "@/assets/images/pokemon/pokemon_260.png",
+    "type": "Steel",
+    "hp": 39,
+    "moves": ["Leech Seed", "Growl", "Shadow Ball", "Earthquake"],
+    "weaknesses": ["Ground", "Fire"]
+  },
+  {
+    "id": "261",
+    "name": "Catersaur",
+    "image": "@/assets/images/pokemon/pokemon_261.png",
+    "type": "Ghost",
+    "hp": 64,
+    "moves": ["Razor Leaf", "Hydro Pump"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "262",
+    "name": "Ivypiestar",
+    "image": "@/assets/images/pokemon/pokemon_262.png",
+    "type": "Rock",
+    "hp": 120,
+    "moves": ["Thunder Shock", "Dark Pulse"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "263",
+    "name": "Ekansdon",
+    "image": "@/assets/images/pokemon/pokemon_263.png",
+    "type": "Ghost",
+    "hp": 79,
+    "moves": ["Thunder Shock", "Thunderbolt", "Ember"],
+    "weaknesses": ["Ghost"]
+  },
+  {
+    "id": "264",
+    "name": "Eeveepiekin",
+    "image": "@/assets/images/pokemon/pokemon_264.png",
+    "type": "Bug",
+    "hp": 71,
+    "moves": ["Scratch", "Tackle"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "265",
+    "name": "Meta",
+    "image": "@/assets/images/pokemon/pokemon_265.png",
+    "type": "Fire",
+    "hp": 116,
+    "moves": ["Razor Leaf", "Scratch"],
+    "weaknesses": ["Rock", "Water"]
+  },
+  {
+    "id": "266",
+    "name": "Raichutle",
+    "image": "@/assets/images/pokemon/pokemon_266.png",
+    "type": "Ice",
+    "hp": 49,
+    "moves": ["Dark Pulse", "Thunderbolt", "Vine Whip", "Leech Seed"],
+    "weaknesses": ["Fire", "Steel", "Fighting"]
+  },
+  {
+    "id": "267",
+    "name": "Blastotoise",
+    "image": "@/assets/images/pokemon/pokemon_267.png",
+    "type": "Poison",
+    "hp": 92,
+    "moves": ["Growl", "Dragon Claw", "Stone Edge"],
+    "weaknesses": ["Ground", "Psychic"]
+  },
+  {
+    "id": "268",
+    "name": "Blastosaur4",
+    "image": "@/assets/images/pokemon/pokemon_268.png",
+    "type": "Water",
+    "hp": 37,
+    "moves": ["Hyper Beam", "Bug Buzz"],
+    "weaknesses": ["Grass", "Electric"]
+  },
+  {
+    "id": "269",
+    "name": "Sand",
+    "image": "@/assets/images/pokemon/pokemon_269.png",
+    "type": "Electric",
+    "hp": 108,
+    "moves": ["Double Kick", "Earthquake", "Vine Whip"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "270",
+    "name": "Ekansdon",
+    "image": "@/assets/images/pokemon/pokemon_270.png",
+    "type": "Steel",
+    "hp": 81,
+    "moves": ["Growl", "Tail Whip", "Hyper Beam"],
+    "weaknesses": ["Fire", "Fighting"]
+  },
+  {
+    "id": "271",
+    "name": "Pikapie",
+    "image": "@/assets/images/pokemon/pokemon_271.png",
+    "type": "Steel",
+    "hp": 109,
+    "moves": ["Growl", "Dazzling Gleam"],
+    "weaknesses": ["Ground", "Fighting"]
+  },
+  {
+    "id": "272",
+    "name": "Metachu",
+    "image": "@/assets/images/pokemon/pokemon_272.png",
+    "type": "Electric",
+    "hp": 102,
+    "moves": ["Iron Tail", "Ember"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "273",
+    "name": "Venu",
+    "image": "@/assets/images/pokemon/pokemon_273.png",
+    "type": "Electric",
+    "hp": 39,
+    "moves": ["Gust", "Razor Leaf"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "274",
+    "name": "Pidge",
+    "image": "@/assets/images/pokemon/pokemon_274.png",
+    "type": "Water",
+    "hp": 98,
+    "moves": ["Hydro Pump", "Psycho Cut", "Tackle", "Quick Attack"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "275",
+    "name": "Sandystar",
+    "image": "@/assets/images/pokemon/pokemon_275.png",
+    "type": "Steel",
+    "hp": 71,
+    "moves": ["Hydro Pump", "Tail Whip"],
+    "weaknesses": ["Ground", "Fire", "Fighting"]
+  },
+  {
+    "id": "276",
+    "name": "Spearran",
+    "image": "@/assets/images/pokemon/pokemon_276.png",
+    "type": "Grass",
+    "hp": 46,
+    "moves": ["Shadow Ball", "Dark Pulse"],
+    "weaknesses": ["Ice", "Fire", "Poison", "Bug"]
+  },
+  {
+    "id": "277",
+    "name": "Wartvee9",
+    "image": "@/assets/images/pokemon/pokemon_277.png",
+    "type": "Rock",
+    "hp": 66,
+    "moves": ["Quick Attack", "Earthquake"],
+    "weaknesses": ["Water", "Steel"]
+  },
+  {
+    "id": "278",
+    "name": "Charfreeo",
+    "image": "@/assets/images/pokemon/pokemon_278.png",
+    "type": "Grass",
+    "hp": 80,
+    "moves": ["Razor Leaf", "Tail Whip"],
+    "weaknesses": ["Poison", "Fire"]
+  },
+  {
+    "id": "279",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_279.png",
+    "type": "Ground",
+    "hp": 104,
+    "moves": ["Bug Buzz", "Withdraw", "Rest"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "280",
+    "name": "Para",
+    "image": "@/assets/images/pokemon/pokemon_280.png",
+    "type": "Psychic",
+    "hp": 104,
+    "moves": ["Thunder Shock", "Flamethrower", "Ember", "Vine Whip"],
+    "weaknesses": ["Bug"]
+  },
+  {
+    "id": "281",
+    "name": "Zubatbat",
+    "image": "@/assets/images/pokemon/pokemon_281.png",
+    "type": "Ground",
+    "hp": 89,
+    "moves": ["Withdraw", "Hydro Pump", "Water Gun", "Ember"],
+    "weaknesses": ["Grass", "Ice"]
+  },
+  {
+    "id": "282",
+    "name": "Ekans",
+    "image": "@/assets/images/pokemon/pokemon_282.png",
+    "type": "Dark",
+    "hp": 59,
+    "moves": ["Vine Whip", "Flamethrower", "Gust", "Bite"],
+    "weaknesses": ["Bug", "Fighting"]
+  },
+  {
+    "id": "283",
+    "name": "Sandsaur",
+    "image": "@/assets/images/pokemon/pokemon_283.png",
+    "type": "Fire",
+    "hp": 63,
+    "moves": ["Psycho Cut", "Ember", "Rest", "Thunder Shock"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "284",
+    "name": "Zubatrow",
+    "image": "@/assets/images/pokemon/pokemon_284.png",
+    "type": "Steel",
+    "hp": 107,
+    "moves": ["Poison Jab", "Double Kick", "Shadow Ball"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "285",
+    "name": "Butter",
+    "image": "@/assets/images/pokemon/pokemon_285.png",
+    "type": "Steel",
+    "hp": 49,
+    "moves": ["Bug Buzz", "Razor Leaf", "Poison Jab"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "286",
+    "name": "Snorchu",
+    "image": "@/assets/images/pokemon/pokemon_286.png",
+    "type": "Water",
+    "hp": 105,
+    "moves": ["Dazzling Gleam", "Earthquake", "Scratch"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "287",
+    "name": "Sandisho",
+    "image": "@/assets/images/pokemon/pokemon_287.png",
+    "type": "Ghost",
+    "hp": 97,
+    "moves": ["Tail Whip", "Gust"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "288",
+    "name": "Dig",
+    "image": "@/assets/images/pokemon/pokemon_288.png",
+    "type": "Dragon",
+    "hp": 74,
+    "moves": ["Growl", "Bite"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "289",
+    "name": "Jigg",
+    "image": "@/assets/images/pokemon/pokemon_289.png",
+    "type": "Normal",
+    "hp": 63,
+    "moves": ["Psycho Cut", "Withdraw", "Hyper Beam"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "290",
+    "name": "Mewlett",
+    "image": "@/assets/images/pokemon/pokemon_290.png",
+    "type": "Rock",
+    "hp": 74,
+    "moves": ["Bug Buzz", "Earthquake", "Dark Pulse"],
+    "weaknesses": ["Grass", "Ground", "Steel", "Water", "Fighting"]
+  },
+  {
+    "id": "291",
+    "name": "Jiggshrewstar",
+    "image": "@/assets/images/pokemon/pokemon_291.png",
+    "type": "Dark",
+    "hp": 112,
+    "moves": ["Dark Pulse", "Thunder Shock", "Bug Buzz"],
+    "weaknesses": ["Bug", "Fairy"]
+  },
+  {
+    "id": "292",
+    "name": "Venusaur",
+    "image": "@/assets/images/pokemon/pokemon_292.png",
+    "type": "Rock",
+    "hp": 68,
+    "moves": ["Leech Seed", "Scratch", "Bug Buzz", "Flamethrower"],
+    "weaknesses": ["Ground", "Steel", "Grass", "Water", "Fighting"]
+  },
+  {
+    "id": "293",
+    "name": "Clefpie",
+    "image": "@/assets/images/pokemon/pokemon_293.png",
+    "type": "Water",
+    "hp": 43,
+    "moves": ["Thunderbolt", "Scratch", "Dragon Claw"],
+    "weaknesses": ["Electric", "Grass"]
+  },
+  {
+    "id": "294",
+    "name": "Buttermander",
+    "image": "@/assets/images/pokemon/pokemon_294.png",
+    "type": "Ground",
+    "hp": 76,
+    "moves": ["Protect", "Scratch", "Bite", "Vine Whip"],
+    "weaknesses": ["Water", "Grass", "Ice"]
+  },
+  {
+    "id": "295",
+    "name": "Ivykkin",
+    "image": "@/assets/images/pokemon/pokemon_295.png",
+    "type": "Ghost",
+    "hp": 68,
+    "moves": ["Earthquake", "Gust"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "296",
+    "name": "Mew",
+    "image": "@/assets/images/pokemon/pokemon_296.png",
+    "type": "Dragon",
+    "hp": 47,
+    "moves": ["Stone Edge", "Thunder Shock"],
+    "weaknesses": ["Dragon", "Fairy", "Ice"]
+  },
+  {
+    "id": "297",
+    "name": "Pika",
+    "image": "@/assets/images/pokemon/pokemon_297.png",
+    "type": "Fighting",
+    "hp": 89,
+    "moves": ["Protect", "Dazzling Gleam", "Quick Attack"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "298",
+    "name": "Eeveesaurkin",
+    "image": "@/assets/images/pokemon/pokemon_298.png",
+    "type": "Fighting",
+    "hp": 44,
+    "moves": ["Thunderbolt", "Flamethrower", "Hyper Beam", "Gust"],
+    "weaknesses": ["Psychic", "Flying"]
+  },
+  {
+    "id": "299",
+    "name": "Clef",
+    "image": "@/assets/images/pokemon/pokemon_299.png",
+    "type": "Dark",
+    "hp": 51,
+    "moves": ["Bite", "Double Kick", "Bug Buzz"],
+    "weaknesses": ["Fighting", "Fairy"]
+  },
+  {
+    "id": "300",
+    "name": "Nidovee",
+    "image": "@/assets/images/pokemon/pokemon_300.png",
+    "type": "Ice",
+    "hp": 83,
+    "moves": ["Poison Jab", "Razor Leaf", "Protect", "Rest"],
+    "weaknesses": ["Steel", "Fighting", "Rock", "Fire"]
+  },
+  {
+    "id": "301",
+    "name": "Blastotlestar",
+    "image": "@/assets/images/pokemon/pokemon_301.png",
+    "type": "Fairy",
+    "hp": 101,
+    "moves": ["Double Kick", "Water Gun", "Earthquake", "Razor Leaf"],
+    "weaknesses": ["Steel", "Poison"]
+  },
+  {
+    "id": "302",
+    "name": "Charvee",
+    "image": "@/assets/images/pokemon/pokemon_302.png",
+    "type": "Dark",
+    "hp": 108,
+    "moves": ["Hydro Pump", "Thunderbolt", "Stone Edge", "Leech Seed"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "303",
+    "name": "Ekanstoise",
+    "image": "@/assets/images/pokemon/pokemon_303.png",
+    "type": "Dragon",
+    "hp": 56,
+    "moves": ["Water Gun", "Flamethrower", "Hyper Beam", "Bug Buzz"],
+    "weaknesses": ["Dragon"]
+  },
+  {
+    "id": "304",
+    "name": "Oddmanderstar",
+    "image": "@/assets/images/pokemon/pokemon_304.png",
+    "type": "Psychic",
+    "hp": 81,
+    "moves": ["Withdraw", "Rest"],
+    "weaknesses": ["Ghost"]
+  },
+  {
+    "id": "305",
+    "name": "Raichu",
+    "image": "@/assets/images/pokemon/pokemon_305.png",
+    "type": "Psychic",
+    "hp": 114,
+    "moves": ["Thunder Shock", "Iron Tail", "Withdraw"],
+    "weaknesses": ["Dark", "Ghost", "Bug"]
+  },
+  {
+    "id": "306",
+    "name": "Eevee",
+    "image": "@/assets/images/pokemon/pokemon_306.png",
+    "type": "Bug",
+    "hp": 92,
+    "moves": ["Hydro Pump", "Iron Tail"],
+    "weaknesses": ["Flying", "Fire", "Rock"]
+  },
+  {
+    "id": "307",
+    "name": "Arbotstar",
+    "image": "@/assets/images/pokemon/pokemon_307.png",
+    "type": "Dark",
+    "hp": 118,
+    "moves": ["Ember", "Growl", "Tackle", "Dark Pulse"],
+    "weaknesses": ["Fairy", "Fighting", "Bug"]
+  },
+  {
+    "id": "308",
+    "name": "Parakkin",
+    "image": "@/assets/images/pokemon/pokemon_308.png",
+    "type": "Flying",
+    "hp": 58,
+    "moves": ["Double Kick", "Scratch"],
+    "weaknesses": ["Rock", "Ice", "Electric"]
+  },
+  {
+    "id": "309",
+    "name": "Eeveelypuff",
+    "image": "@/assets/images/pokemon/pokemon_309.png",
+    "type": "Rock",
+    "hp": 104,
+    "moves": ["Dazzling Gleam", "Hyper Beam", "Water Gun", "Bite"],
+    "weaknesses": ["Ground", "Water", "Steel", "Grass"]
+  },
+  {
+    "id": "310",
+    "name": "Nidovee",
+    "image": "@/assets/images/pokemon/pokemon_310.png",
+    "type": "Fire",
+    "hp": 111,
+    "moves": ["Hydro Pump", "Iron Tail"],
+    "weaknesses": ["Rock"]
+  },
+  {
+    "id": "311",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_311.png",
+    "type": "Fire",
+    "hp": 57,
+    "moves": ["Withdraw", "Thunderbolt", "Hydro Pump"],
+    "weaknesses": ["Rock", "Ground"]
+  },
+  {
+    "id": "312",
+    "name": "Vulpchu2",
+    "image": "@/assets/images/pokemon/pokemon_312.png",
+    "type": "Electric",
+    "hp": 84,
+    "moves": ["Poison Jab", "Dragon Claw", "Hyper Beam"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "313",
+    "name": "Paralypuff",
+    "image": "@/assets/images/pokemon/pokemon_313.png",
+    "type": "Poison",
+    "hp": 77,
+    "moves": ["Dark Pulse", "Bite", "Hydro Pump"],
+    "weaknesses": ["Psychic", "Ground"]
+  },
+  {
+    "id": "314",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_314.png",
+    "type": "Ground",
+    "hp": 76,
+    "moves": ["Tail Whip", "Ember"],
+    "weaknesses": ["Ice", "Water"]
+  },
+  {
+    "id": "315",
+    "name": "Ekansrowmon",
+    "image": "@/assets/images/pokemon/pokemon_315.png",
+    "type": "Ground",
+    "hp": 99,
+    "moves": ["Growl", "Leech Seed"],
+    "weaknesses": ["Ice", "Grass"]
+  },
+  {
+    "id": "316",
+    "name": "Ivyk",
+    "image": "@/assets/images/pokemon/pokemon_316.png",
+    "type": "Flying",
+    "hp": 87,
+    "moves": ["Vine Whip", "Leech Seed", "Poison Jab"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "317",
+    "name": "Arbo",
+    "image": "@/assets/images/pokemon/pokemon_317.png",
+    "type": "Fighting",
+    "hp": 90,
+    "moves": ["Scratch", "Stone Edge", "Hydro Pump", "Tail Whip"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "318",
+    "name": "Eeveechukin",
+    "image": "@/assets/images/pokemon/pokemon_318.png",
+    "type": "Psychic",
+    "hp": 70,
+    "moves": ["Psycho Cut", "Gust", "Poison Jab", "Double Kick"],
+    "weaknesses": ["Dark", "Bug"]
+  },
+  {
+    "id": "319",
+    "name": "Wart",
+    "image": "@/assets/images/pokemon/pokemon_319.png",
+    "type": "Electric",
+    "hp": 56,
+    "moves": ["Protect", "Iron Tail", "Vine Whip", "Flamethrower"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "320",
+    "name": "Sandchu",
+    "image": "@/assets/images/pokemon/pokemon_320.png",
+    "type": "Bug",
+    "hp": 56,
+    "moves": ["Dazzling Gleam", "Psycho Cut"],
+    "weaknesses": ["Rock", "Flying", "Fire"]
+  },
+  {
+    "id": "321",
+    "name": "Ekanssauro",
+    "image": "@/assets/images/pokemon/pokemon_321.png",
+    "type": "Fighting",
+    "hp": 106,
+    "moves": ["Double Kick", "Hyper Beam", "Hydro Pump", "Vine Whip"],
+    "weaknesses": ["Fairy", "Flying", "Psychic"]
+  },
+  {
+    "id": "322",
+    "name": "Squirk",
+    "image": "@/assets/images/pokemon/pokemon_322.png",
+    "type": "Fighting",
+    "hp": 85,
+    "moves": ["Dazzling Gleam", "Stone Edge", "Hyper Beam", "Gust"],
+    "weaknesses": ["Fairy", "Psychic"]
+  },
+  {
+    "id": "323",
+    "name": "Parasaur",
+    "image": "@/assets/images/pokemon/pokemon_323.png",
+    "type": "Fairy",
+    "hp": 64,
+    "moves": ["Psycho Cut", "Razor Leaf", "Bug Buzz", "Protect"],
+    "weaknesses": ["Poison"]
+  },
+  {
+    "id": "324",
+    "name": "Raichu",
+    "image": "@/assets/images/pokemon/pokemon_324.png",
+    "type": "Fire",
+    "hp": 112,
+    "moves": ["Razor Leaf", "Poison Jab", "Growl", "Tail Whip"],
+    "weaknesses": ["Water", "Ground"]
+  },
+  {
+    "id": "325",
+    "name": "Vulpmander",
+    "image": "@/assets/images/pokemon/pokemon_325.png",
+    "type": "Dragon",
+    "hp": 87,
+    "moves": ["Iron Tail", "Shadow Ball", "Water Gun"],
+    "weaknesses": ["Dragon", "Fairy", "Ice"]
+  },
+  {
+    "id": "326",
+    "name": "Oddtoisemon",
+    "image": "@/assets/images/pokemon/pokemon_326.png",
+    "type": "Poison",
+    "hp": 59,
+    "moves": ["Withdraw", "Dragon Claw", "Protect", "Shadow Ball"],
+    "weaknesses": ["Ground", "Psychic"]
+  },
+  {
+    "id": "327",
+    "name": "Dig",
+    "image": "@/assets/images/pokemon/pokemon_327.png",
+    "type": "Ground",
+    "hp": 93,
+    "moves": ["Growl", "Hyper Beam"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "328",
+    "name": "Pidgerowmon",
+    "image": "@/assets/images/pokemon/pokemon_328.png",
+    "type": "Dark",
+    "hp": 37,
+    "moves": ["Thunder Shock", "Razor Leaf", "Growl", "Stone Edge"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "329",
+    "name": "Pikakmon",
+    "image": "@/assets/images/pokemon/pokemon_329.png",
+    "type": "Ground",
+    "hp": 108,
+    "moves": ["Earthquake", "Stone Edge", "Withdraw"],
+    "weaknesses": ["Grass", "Ice"]
+  },
+  {
+    "id": "330",
+    "name": "Zubatsaur",
+    "image": "@/assets/images/pokemon/pokemon_330.png",
+    "type": "Steel",
+    "hp": 66,
+    "moves": ["Protect", "Dazzling Gleam", "Dark Pulse"],
+    "weaknesses": ["Ground", "Fire"]
+  },
+  {
+    "id": "331",
+    "name": "Oddish",
+    "image": "@/assets/images/pokemon/pokemon_331.png",
+    "type": "Ground",
+    "hp": 120,
+    "moves": ["Vine Whip", "Psycho Cut", "Hydro Pump", "Thunderbolt"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "332",
+    "name": "Metashrew",
+    "image": "@/assets/images/pokemon/pokemon_332.png",
+    "type": "Water",
+    "hp": 75,
+    "moves": ["Dragon Claw", "Flamethrower"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "333",
+    "name": "Pidget",
+    "image": "@/assets/images/pokemon/pokemon_333.png",
+    "type": "Dark",
+    "hp": 95,
+    "moves": ["Psycho Cut", "Earthquake", "Thunder Shock", "Ember"],
+    "weaknesses": ["Bug", "Fighting", "Fairy"]
+  },
+  {
+    "id": "334",
+    "name": "Raichuish",
+    "image": "@/assets/images/pokemon/pokemon_334.png",
+    "type": "Dragon",
+    "hp": 57,
+    "moves": ["Dragon Claw", "Flamethrower", "Leech Seed"],
+    "weaknesses": ["Fairy", "Ice", "Dragon"]
+  },
+  {
+    "id": "335",
+    "name": "Spear",
+    "image": "@/assets/images/pokemon/pokemon_335.png",
+    "type": "Ground",
+    "hp": 111,
+    "moves": ["Bug Buzz", "Withdraw"],
+    "weaknesses": ["Water", "Ice", "Grass"]
+  },
+  {
+    "id": "336",
+    "name": "Blastoshrew",
+    "image": "@/assets/images/pokemon/pokemon_336.png",
+    "type": "Water",
+    "hp": 120,
+    "moves": ["Hyper Beam", "Stone Edge"],
+    "weaknesses": ["Grass", "Electric"]
+  },
+  {
+    "id": "337",
+    "name": "Blastosaur",
+    "image": "@/assets/images/pokemon/pokemon_337.png",
+    "type": "Ground",
+    "hp": 70,
+    "moves": ["Tackle", "Withdraw", "Scratch"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "338",
+    "name": "Snortoise",
+    "image": "@/assets/images/pokemon/pokemon_338.png",
+    "type": "Fairy",
+    "hp": 96,
+    "moves": ["Poison Jab", "Hydro Pump", "Vine Whip", "Razor Leaf"],
+    "weaknesses": ["Poison"]
+  },
+  {
+    "id": "339",
+    "name": "Char",
+    "image": "@/assets/images/pokemon/pokemon_339.png",
+    "type": "Bug",
+    "hp": 53,
+    "moves": ["Quick Attack", "Vine Whip"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "340",
+    "name": "Spearlypuff",
+    "image": "@/assets/images/pokemon/pokemon_340.png",
+    "type": "Psychic",
+    "hp": 105,
+    "moves": ["Dragon Claw", "Earthquake"],
+    "weaknesses": ["Dark", "Bug", "Ghost"]
+  },
+  {
+    "id": "341",
+    "name": "Zubatmander",
+    "image": "@/assets/images/pokemon/pokemon_341.png",
+    "type": "Grass",
+    "hp": 96,
+    "moves": ["Vine Whip", "Gust", "Iron Tail"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "342",
+    "name": "Oddt",
+    "image": "@/assets/images/pokemon/pokemon_342.png",
+    "type": "Normal",
+    "hp": 52,
+    "moves": ["Protect", "Stone Edge"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "343",
+    "name": "Pidgesaur",
+    "image": "@/assets/images/pokemon/pokemon_343.png",
+    "type": "Poison",
+    "hp": 82,
+    "moves": ["Protect", "Shadow Ball", "Double Kick"],
+    "weaknesses": ["Ground", "Psychic"]
+  },
+  {
+    "id": "344",
+    "name": "Sandmander",
+    "image": "@/assets/images/pokemon/pokemon_344.png",
+    "type": "Fighting",
+    "hp": 68,
+    "moves": ["Leech Seed", "Shadow Ball"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "345",
+    "name": "Squirdon",
+    "image": "@/assets/images/pokemon/pokemon_345.png",
+    "type": "Ice",
+    "hp": 79,
+    "moves": ["Dark Pulse", "Growl", "Tackle", "Gust"],
+    "weaknesses": ["Fire"]
+  },
+  {
+    "id": "346",
+    "name": "Raichu",
+    "image": "@/assets/images/pokemon/pokemon_346.png",
+    "type": "Dark",
+    "hp": 31,
+    "moves": ["Psycho Cut", "Thunderbolt", "Vine Whip", "Thunder Shock"],
+    "weaknesses": ["Fighting", "Fairy"]
+  },
+  {
+    "id": "347",
+    "name": "Pika",
+    "image": "@/assets/images/pokemon/pokemon_347.png",
+    "type": "Psychic",
+    "hp": 55,
+    "moves": ["Dazzling Gleam", "Thunder Shock"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "348",
+    "name": "Squiry",
+    "image": "@/assets/images/pokemon/pokemon_348.png",
+    "type": "Dark",
+    "hp": 95,
+    "moves": ["Earthquake", "Shadow Ball", "Psycho Cut"],
+    "weaknesses": ["Bug", "Fairy", "Fighting"]
+  },
+  {
+    "id": "349",
+    "name": "Venu",
+    "image": "@/assets/images/pokemon/pokemon_349.png",
+    "type": "Flying",
+    "hp": 31,
+    "moves": ["Shadow Ball", "Withdraw"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "350",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_350.png",
+    "type": "Fairy",
+    "hp": 101,
+    "moves": ["Growl", "Scratch", "Poison Jab"],
+    "weaknesses": ["Poison"]
+  },
+  {
+    "id": "351",
+    "name": "Clef",
+    "image": "@/assets/images/pokemon/pokemon_351.png",
+    "type": "Steel",
+    "hp": 51,
+    "moves": ["Leech Seed", "Dazzling Gleam", "Shadow Ball", "Psycho Cut"],
+    "weaknesses": ["Ground", "Fire", "Fighting"]
+  },
+  {
+    "id": "352",
+    "name": "Jiggsaur",
+    "image": "@/assets/images/pokemon/pokemon_352.png",
+    "type": "Dark",
+    "hp": 58,
+    "moves": ["Shadow Ball", "Razor Leaf", "Rest"],
+    "weaknesses": ["Bug"]
+  },
+  {
+    "id": "353",
+    "name": "Metaran",
+    "image": "@/assets/images/pokemon/pokemon_353.png",
+    "type": "Water",
+    "hp": 81,
+    "moves": ["Thunderbolt", "Quick Attack"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "354",
+    "name": "Arbolax",
+    "image": "@/assets/images/pokemon/pokemon_354.png",
+    "type": "Grass",
+    "hp": 84,
+    "moves": ["Growl", "Vine Whip", "Shadow Ball"],
+    "weaknesses": ["Flying", "Ice", "Poison"]
+  },
+  {
+    "id": "355",
+    "name": "Caterfable",
+    "image": "@/assets/images/pokemon/pokemon_355.png",
+    "type": "Normal",
+    "hp": 80,
+    "moves": ["Dragon Claw", "Thunderbolt"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "356",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_356.png",
+    "type": "Ice",
+    "hp": 39,
+    "moves": ["Stone Edge", "Scratch", "Shadow Ball"],
+    "weaknesses": ["Fighting", "Steel"]
+  },
+  {
+    "id": "357",
+    "name": "Spearfree",
+    "image": "@/assets/images/pokemon/pokemon_357.png",
+    "type": "Water",
+    "hp": 117,
+    "moves": ["Protect", "Razor Leaf"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "358",
+    "name": "Jiggsaur",
+    "image": "@/assets/images/pokemon/pokemon_358.png",
+    "type": "Electric",
+    "hp": 62,
+    "moves": ["Vine Whip", "Ember", "Dark Pulse", "Razor Leaf"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "359",
+    "name": "Pikarow",
+    "image": "@/assets/images/pokemon/pokemon_359.png",
+    "type": "Fire",
+    "hp": 102,
+    "moves": ["Rest", "Stone Edge", "Iron Tail"],
+    "weaknesses": ["Rock", "Water", "Ground"]
+  },
+  {
+    "id": "360",
+    "name": "Sand",
+    "image": "@/assets/images/pokemon/pokemon_360.png",
+    "type": "Poison",
+    "hp": 50,
+    "moves": ["Hydro Pump", "Quick Attack"],
+    "weaknesses": ["Psychic", "Ground"]
+  },
+  {
+    "id": "361",
+    "name": "Sand",
+    "image": "@/assets/images/pokemon/pokemon_361.png",
+    "type": "Grass",
+    "hp": 36,
+    "moves": ["Earthquake", "Protect"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "362",
+    "name": "Wartshrew",
+    "image": "@/assets/images/pokemon/pokemon_362.png",
+    "type": "Rock",
+    "hp": 54,
+    "moves": ["Protect", "Gust", "Leech Seed"],
+    "weaknesses": ["Grass", "Water", "Fighting", "Steel", "Ground"]
+  },
+  {
+    "id": "363",
+    "name": "Mewlax",
+    "image": "@/assets/images/pokemon/pokemon_363.png",
+    "type": "Steel",
+    "hp": 105,
+    "moves": ["Thunderbolt", "Poison Jab", "Hydro Pump"],
+    "weaknesses": ["Ground", "Fire"]
+  },
+  {
+    "id": "364",
+    "name": "Blasto",
+    "image": "@/assets/images/pokemon/pokemon_364.png",
+    "type": "Rock",
+    "hp": 83,
+    "moves": ["Thunderbolt", "Tackle", "Quick Attack", "Rest"],
+    "weaknesses": ["Water", "Ground", "Fighting", "Grass", "Steel"]
+  },
+  {
+    "id": "365",
+    "name": "Vulp",
+    "image": "@/assets/images/pokemon/pokemon_365.png",
+    "type": "Dark",
+    "hp": 94,
+    "moves": ["Dazzling Gleam", "Hyper Beam", "Dark Pulse"],
+    "weaknesses": ["Fighting", "Bug", "Fairy"]
+  },
+  {
+    "id": "366",
+    "name": "Rati",
+    "image": "@/assets/images/pokemon/pokemon_366.png",
+    "type": "Bug",
+    "hp": 110,
+    "moves": ["Shadow Ball", "Protect", "Razor Leaf", "Thunderbolt"],
+    "weaknesses": ["Rock", "Flying"]
+  },
+  {
+    "id": "367",
+    "name": "Jiggpie",
+    "image": "@/assets/images/pokemon/pokemon_367.png",
+    "type": "Psychic",
+    "hp": 96,
+    "moves": ["Tackle", "Leech Seed"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "368",
+    "name": "Spear",
+    "image": "@/assets/images/pokemon/pokemon_368.png",
+    "type": "Fighting",
+    "hp": 83,
+    "moves": ["Poison Jab", "Hyper Beam", "Tackle"],
+    "weaknesses": ["Psychic", "Fairy"]
+  },
+  {
+    "id": "369",
+    "name": "Bulbafable",
+    "image": "@/assets/images/pokemon/pokemon_369.png",
+    "type": "Grass",
+    "hp": 67,
+    "moves": ["Scratch", "Bug Buzz", "Quick Attack"],
+    "weaknesses": ["Fire", "Poison", "Ice", "Flying"]
+  },
+  {
+    "id": "370",
+    "name": "Wartpodo",
+    "image": "@/assets/images/pokemon/pokemon_370.png",
+    "type": "Bug",
+    "hp": 33,
+    "moves": ["Bug Buzz", "Scratch", "Protect", "Water Gun"],
+    "weaknesses": ["Fire"]
+  },
+  {
+    "id": "371",
+    "name": "Pika",
+    "image": "@/assets/images/pokemon/pokemon_371.png",
+    "type": "Water",
+    "hp": 98,
+    "moves": ["Flamethrower", "Ember"],
+    "weaknesses": ["Electric"]
+  },
+  {
+    "id": "372",
+    "name": "Ekanstle",
+    "image": "@/assets/images/pokemon/pokemon_372.png",
+    "type": "Ice",
+    "hp": 114,
+    "moves": ["Earthquake", "Quick Attack", "Psycho Cut"],
+    "weaknesses": ["Steel", "Fighting", "Rock"]
+  },
+  {
+    "id": "373",
+    "name": "Caterlett",
+    "image": "@/assets/images/pokemon/pokemon_373.png",
+    "type": "Dark",
+    "hp": 99,
+    "moves": ["Poison Jab", "Earthquake", "Ember"],
+    "weaknesses": ["Fairy", "Bug"]
+  },
+  {
+    "id": "374",
+    "name": "Metaran",
+    "image": "@/assets/images/pokemon/pokemon_374.png",
+    "type": "Dark",
+    "hp": 75,
+    "moves": ["Poison Jab", "Razor Leaf", "Bug Buzz"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "375",
+    "name": "Clef",
+    "image": "@/assets/images/pokemon/pokemon_375.png",
+    "type": "Rock",
+    "hp": 54,
+    "moves": ["Flamethrower", "Psycho Cut", "Iron Tail", "Ember"],
+    "weaknesses": ["Water", "Fighting", "Ground", "Grass"]
+  },
+  {
+    "id": "376",
+    "name": "Ratiok2",
+    "image": "@/assets/images/pokemon/pokemon_376.png",
+    "type": "Rock",
+    "hp": 31,
+    "moves": ["Withdraw", "Bite", "Thunder Shock", "Leech Seed"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "377",
+    "name": "Squirfable",
+    "image": "@/assets/images/pokemon/pokemon_377.png",
+    "type": "Steel",
+    "hp": 120,
+    "moves": ["Iron Tail", "Double Kick"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "378",
+    "name": "Arbo",
+    "image": "@/assets/images/pokemon/pokemon_378.png",
+    "type": "Ground",
+    "hp": 56,
+    "moves": ["Poison Jab", "Tail Whip", "Growl"],
+    "weaknesses": ["Ice", "Water"]
+  },
+  {
+    "id": "379",
+    "name": "Dig",
+    "image": "@/assets/images/pokemon/pokemon_379.png",
+    "type": "Ice",
+    "hp": 102,
+    "moves": ["Scratch", "Thunder Shock"],
+    "weaknesses": ["Steel", "Fire", "Fighting", "Rock"]
+  },
+  {
+    "id": "380",
+    "name": "Ratisect",
+    "image": "@/assets/images/pokemon/pokemon_380.png",
+    "type": "Rock",
+    "hp": 80,
+    "moves": ["Quick Attack", "Tail Whip"],
+    "weaknesses": ["Grass", "Fighting", "Ground", "Steel"]
+  },
+  {
+    "id": "381",
+    "name": "Zubat",
+    "image": "@/assets/images/pokemon/pokemon_381.png",
+    "type": "Normal",
+    "hp": 75,
+    "moves": ["Poison Jab", "Hyper Beam", "Psycho Cut", "Earthquake"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "382",
+    "name": "Snor",
+    "image": "@/assets/images/pokemon/pokemon_382.png",
+    "type": "Fairy",
+    "hp": 98,
+    "moves": ["Hydro Pump", "Quick Attack", "Bite", "Thunder Shock"],
+    "weaknesses": ["Poison", "Steel"]
+  },
+  {
+    "id": "383",
+    "name": "Pidgemander",
+    "image": "@/assets/images/pokemon/pokemon_383.png",
+    "type": "Flying",
+    "hp": 45,
+    "moves": ["Rest", "Water Gun", "Dazzling Gleam"],
+    "weaknesses": ["Rock", "Ice"]
+  },
+  {
+    "id": "384",
+    "name": "Snortlekin",
+    "image": "@/assets/images/pokemon/pokemon_384.png",
+    "type": "Psychic",
+    "hp": 112,
+    "moves": ["Dragon Claw", "Hydro Pump", "Psycho Cut"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "385",
+    "name": "Charlaxo",
+    "image": "@/assets/images/pokemon/pokemon_385.png",
+    "type": "Water",
+    "hp": 101,
+    "moves": ["Earthquake", "Iron Tail", "Hydro Pump"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "386",
+    "name": "Meta",
+    "image": "@/assets/images/pokemon/pokemon_386.png",
+    "type": "Grass",
+    "hp": 85,
+    "moves": ["Hydro Pump", "Iron Tail", "Leech Seed"],
+    "weaknesses": ["Poison", "Fire"]
+  },
+  {
+    "id": "387",
+    "name": "Arbotwo",
+    "image": "@/assets/images/pokemon/pokemon_387.png",
+    "type": "Dragon",
+    "hp": 53,
+    "moves": ["Ember", "Dark Pulse", "Withdraw", "Tail Whip"],
+    "weaknesses": ["Fairy"]
+  },
+  {
+    "id": "388",
+    "name": "Nido",
+    "image": "@/assets/images/pokemon/pokemon_388.png",
+    "type": "Dark",
+    "hp": 78,
+    "moves": ["Quick Attack", "Iron Tail", "Double Kick"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "389",
+    "name": "Paramander",
+    "image": "@/assets/images/pokemon/pokemon_389.png",
+    "type": "Ghost",
+    "hp": 63,
+    "moves": ["Quick Attack", "Gust"],
+    "weaknesses": ["Ghost"]
+  },
+  {
+    "id": "390",
+    "name": "Wartsaurkin",
+    "image": "@/assets/images/pokemon/pokemon_390.png",
+    "type": "Psychic",
+    "hp": 74,
+    "moves": ["Iron Tail", "Gust", "Shadow Ball"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "391",
+    "name": "Cleflax",
+    "image": "@/assets/images/pokemon/pokemon_391.png",
+    "type": "Dark",
+    "hp": 113,
+    "moves": ["Hyper Beam", "Thunder Shock", "Hydro Pump"],
+    "weaknesses": ["Bug", "Fairy", "Fighting"]
+  },
+  {
+    "id": "392",
+    "name": "Charlett",
+    "image": "@/assets/images/pokemon/pokemon_392.png",
+    "type": "Poison",
+    "hp": 71,
+    "moves": ["Thunderbolt", "Stone Edge", "Water Gun"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "393",
+    "name": "Ivy",
+    "image": "@/assets/images/pokemon/pokemon_393.png",
+    "type": "Poison",
+    "hp": 74,
+    "moves": ["Protect", "Withdraw", "Dark Pulse"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "394",
+    "name": "Jiggbat",
+    "image": "@/assets/images/pokemon/pokemon_394.png",
+    "type": "Flying",
+    "hp": 95,
+    "moves": ["Ember", "Quick Attack", "Water Gun"],
+    "weaknesses": ["Electric", "Ice"]
+  },
+  {
+    "id": "395",
+    "name": "Eeveetmon",
+    "image": "@/assets/images/pokemon/pokemon_395.png",
+    "type": "Fighting",
+    "hp": 71,
+    "moves": ["Vine Whip", "Bite"],
+    "weaknesses": ["Flying", "Fairy", "Psychic"]
+  },
+  {
+    "id": "396",
+    "name": "Butter",
+    "image": "@/assets/images/pokemon/pokemon_396.png",
+    "type": "Fairy",
+    "hp": 73,
+    "moves": ["Tackle", "Ember", "Water Gun"],
+    "weaknesses": ["Steel"]
+  },
+  {
+    "id": "397",
+    "name": "Rati",
+    "image": "@/assets/images/pokemon/pokemon_397.png",
+    "type": "Poison",
+    "hp": 67,
+    "moves": ["Bite", "Psycho Cut", "Dragon Claw", "Growl"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "398",
+    "name": "Pikamander",
+    "image": "@/assets/images/pokemon/pokemon_398.png",
+    "type": "Water",
+    "hp": 105,
+    "moves": ["Flamethrower", "Ember", "Vine Whip"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "399",
+    "name": "Chark",
+    "image": "@/assets/images/pokemon/pokemon_399.png",
+    "type": "Ghost",
+    "hp": 98,
+    "moves": ["Iron Tail", "Tackle"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "400",
+    "name": "Raichutle",
+    "image": "@/assets/images/pokemon/pokemon_400.png",
+    "type": "Dark",
+    "hp": 30,
+    "moves": ["Hyper Beam", "Dazzling Gleam", "Bite", "Rest"],
+    "weaknesses": ["Fairy", "Fighting", "Bug"]
+  },
+  {
+    "id": "401",
+    "name": "Ivytoise3",
+    "image": "@/assets/images/pokemon/pokemon_401.png",
+    "type": "Fire",
+    "hp": 42,
+    "moves": ["Withdraw", "Iron Tail"],
+    "weaknesses": ["Rock"]
+  },
+  {
+    "id": "402",
+    "name": "Nido",
+    "image": "@/assets/images/pokemon/pokemon_402.png",
+    "type": "Dragon",
+    "hp": 90,
+    "moves": ["Shadow Ball", "Double Kick", "Poison Jab"],
+    "weaknesses": ["Dragon", "Fairy"]
+  },
+  {
+    "id": "403",
+    "name": "Jigg",
+    "image": "@/assets/images/pokemon/pokemon_403.png",
+    "type": "Dragon",
+    "hp": 47,
+    "moves": ["Thunder Shock", "Razor Leaf"],
+    "weaknesses": ["Ice", "Dragon"]
+  },
+  {
+    "id": "404",
+    "name": "Ivyranstar",
+    "image": "@/assets/images/pokemon/pokemon_404.png",
+    "type": "Rock",
+    "hp": 39,
+    "moves": ["Earthquake", "Thunderbolt", "Dragon Claw"],
+    "weaknesses": ["Steel", "Grass", "Water", "Fighting"]
+  },
+  {
+    "id": "405",
+    "name": "Spearish",
+    "image": "@/assets/images/pokemon/pokemon_405.png",
+    "type": "Bug",
+    "hp": 101,
+    "moves": ["Stone Edge", "Poison Jab", "Water Gun"],
+    "weaknesses": ["Fire", "Flying"]
+  },
+  {
+    "id": "406",
+    "name": "Pidge",
+    "image": "@/assets/images/pokemon/pokemon_406.png",
+    "type": "Steel",
+    "hp": 92,
+    "moves": ["Earthquake", "Iron Tail", "Scratch", "Tail Whip"],
+    "weaknesses": ["Fire", "Fighting", "Ground"]
+  },
+  {
+    "id": "407",
+    "name": "Raichuchu",
+    "image": "@/assets/images/pokemon/pokemon_407.png",
+    "type": "Poison",
+    "hp": 85,
+    "moves": ["Dark Pulse", "Dragon Claw"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "408",
+    "name": "Ekans",
+    "image": "@/assets/images/pokemon/pokemon_408.png",
+    "type": "Flying",
+    "hp": 57,
+    "moves": ["Vine Whip", "Flamethrower", "Thunderbolt"],
+    "weaknesses": ["Rock", "Electric"]
+  },
+  {
+    "id": "409",
+    "name": "Arboveeo",
+    "image": "@/assets/images/pokemon/pokemon_409.png",
+    "type": "Grass",
+    "hp": 33,
+    "moves": ["Quick Attack", "Thunderbolt"],
+    "weaknesses": ["Flying", "Ice", "Bug"]
+  },
+  {
+    "id": "410",
+    "name": "Butter",
+    "image": "@/assets/images/pokemon/pokemon_410.png",
+    "type": "Dragon",
+    "hp": 109,
+    "moves": ["Stone Edge", "Dark Pulse", "Hydro Pump"],
+    "weaknesses": ["Dragon"]
+  },
+  {
+    "id": "411",
+    "name": "Raichuchu",
+    "image": "@/assets/images/pokemon/pokemon_411.png",
+    "type": "Fighting",
+    "hp": 95,
+    "moves": ["Protect", "Rest", "Stone Edge"],
+    "weaknesses": ["Flying", "Fairy", "Psychic"]
+  },
+  {
+    "id": "412",
+    "name": "Clef",
+    "image": "@/assets/images/pokemon/pokemon_412.png",
+    "type": "Ice",
+    "hp": 104,
+    "moves": ["Tail Whip", "Razor Leaf", "Quick Attack", "Ember"],
+    "weaknesses": ["Fire", "Steel", "Rock", "Fighting"]
+  },
+  {
+    "id": "413",
+    "name": "Squir",
+    "image": "@/assets/images/pokemon/pokemon_413.png",
+    "type": "Ground",
+    "hp": 69,
+    "moves": ["Iron Tail", "Hydro Pump", "Growl", "Withdraw"],
+    "weaknesses": ["Grass", "Ice"]
+  },
+  {
+    "id": "414",
+    "name": "Metafable",
+    "image": "@/assets/images/pokemon/pokemon_414.png",
+    "type": "Electric",
+    "hp": 74,
+    "moves": ["Tail Whip", "Psycho Cut", "Quick Attack"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "415",
+    "name": "Vulp",
+    "image": "@/assets/images/pokemon/pokemon_415.png",
+    "type": "Bug",
+    "hp": 90,
+    "moves": ["Hyper Beam", "Shadow Ball", "Double Kick"],
+    "weaknesses": ["Rock"]
+  },
+  {
+    "id": "416",
+    "name": "Pidge",
+    "image": "@/assets/images/pokemon/pokemon_416.png",
+    "type": "Poison",
+    "hp": 67,
+    "moves": ["Thunder Shock", "Double Kick", "Psycho Cut"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "417",
+    "name": "Ekanslypuffo",
+    "image": "@/assets/images/pokemon/pokemon_417.png",
+    "type": "Dragon",
+    "hp": 49,
+    "moves": ["Thunder Shock", "Stone Edge"],
+    "weaknesses": ["Ice", "Dragon"]
+  },
+  {
+    "id": "418",
+    "name": "Arbotoise",
+    "image": "@/assets/images/pokemon/pokemon_418.png",
+    "type": "Dragon",
+    "hp": 66,
+    "moves": ["Stone Edge", "Gust", "Withdraw"],
+    "weaknesses": ["Dragon", "Fairy", "Ice"]
+  },
+  {
+    "id": "419",
+    "name": "Blastopie",
+    "image": "@/assets/images/pokemon/pokemon_419.png",
+    "type": "Dark",
+    "hp": 71,
+    "moves": ["Flamethrower", "Stone Edge", "Tackle", "Thunderbolt"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "420",
+    "name": "Vulpvee",
+    "image": "@/assets/images/pokemon/pokemon_420.png",
+    "type": "Fire",
+    "hp": 98,
+    "moves": ["Leech Seed", "Razor Leaf"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "421",
+    "name": "Zubat",
+    "image": "@/assets/images/pokemon/pokemon_421.png",
+    "type": "Bug",
+    "hp": 46,
+    "moves": ["Poison Jab", "Growl", "Shadow Ball"],
+    "weaknesses": ["Rock", "Fire", "Flying"]
+  },
+  {
+    "id": "422",
+    "name": "Diglett",
+    "image": "@/assets/images/pokemon/pokemon_422.png",
+    "type": "Fairy",
+    "hp": 50,
+    "moves": ["Ember", "Double Kick"],
+    "weaknesses": ["Steel", "Poison"]
+  },
+  {
+    "id": "423",
+    "name": "Pidge",
+    "image": "@/assets/images/pokemon/pokemon_423.png",
+    "type": "Fairy",
+    "hp": 89,
+    "moves": ["Quick Attack", "Bug Buzz"],
+    "weaknesses": ["Steel"]
+  },
+  {
+    "id": "424",
+    "name": "Pika",
+    "image": "@/assets/images/pokemon/pokemon_424.png",
+    "type": "Fairy",
+    "hp": 75,
+    "moves": ["Dazzling Gleam", "Earthquake", "Poison Jab"],
+    "weaknesses": ["Steel", "Poison"]
+  },
+  {
+    "id": "425",
+    "name": "Dig",
+    "image": "@/assets/images/pokemon/pokemon_425.png",
+    "type": "Dragon",
+    "hp": 116,
+    "moves": ["Flamethrower", "Psycho Cut"],
+    "weaknesses": ["Fairy", "Dragon", "Ice"]
+  },
+  {
+    "id": "426",
+    "name": "Wartk3",
+    "image": "@/assets/images/pokemon/pokemon_426.png",
+    "type": "Rock",
+    "hp": 73,
+    "moves": ["Hyper Beam", "Poison Jab"],
+    "weaknesses": ["Grass", "Water", "Ground"]
+  },
+  {
+    "id": "427",
+    "name": "Vulp",
+    "image": "@/assets/images/pokemon/pokemon_427.png",
+    "type": "Flying",
+    "hp": 36,
+    "moves": ["Rest", "Dark Pulse", "Protect"],
+    "weaknesses": ["Rock", "Electric", "Ice"]
+  },
+  {
+    "id": "428",
+    "name": "Bulbatoise",
+    "image": "@/assets/images/pokemon/pokemon_428.png",
+    "type": "Grass",
+    "hp": 75,
+    "moves": ["Quick Attack", "Withdraw", "Hyper Beam"],
+    "weaknesses": ["Fire", "Bug", "Poison"]
+  },
+  {
+    "id": "429",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_429.png",
+    "type": "Fairy",
+    "hp": 100,
+    "moves": ["Shadow Ball", "Hyper Beam"],
+    "weaknesses": ["Poison"]
+  },
+  {
+    "id": "430",
+    "name": "Ekans",
+    "image": "@/assets/images/pokemon/pokemon_430.png",
+    "type": "Flying",
+    "hp": 75,
+    "moves": ["Flamethrower", "Ember"],
+    "weaknesses": ["Rock"]
+  },
+  {
+    "id": "431",
+    "name": "Digixstar",
+    "image": "@/assets/images/pokemon/pokemon_431.png",
+    "type": "Bug",
+    "hp": 73,
+    "moves": ["Razor Leaf", "Psycho Cut", "Vine Whip"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "432",
+    "name": "Raichu",
+    "image": "@/assets/images/pokemon/pokemon_432.png",
+    "type": "Psychic",
+    "hp": 46,
+    "moves": ["Vine Whip", "Bug Buzz", "Dragon Claw", "Shadow Ball"],
+    "weaknesses": ["Bug", "Dark", "Ghost"]
+  },
+  {
+    "id": "433",
+    "name": "Vulp",
+    "image": "@/assets/images/pokemon/pokemon_433.png",
+    "type": "Ghost",
+    "hp": 35,
+    "moves": ["Protect", "Iron Tail"],
+    "weaknesses": ["Ghost"]
+  },
+  {
+    "id": "434",
+    "name": "Squirchustar",
+    "image": "@/assets/images/pokemon/pokemon_434.png",
+    "type": "Grass",
+    "hp": 110,
+    "moves": ["Quick Attack", "Hyper Beam"],
+    "weaknesses": ["Flying", "Poison"]
+  },
+  {
+    "id": "435",
+    "name": "Blastosect",
+    "image": "@/assets/images/pokemon/pokemon_435.png",
+    "type": "Fairy",
+    "hp": 46,
+    "moves": ["Tail Whip", "Growl", "Bug Buzz", "Protect"],
+    "weaknesses": ["Steel", "Poison"]
+  },
+  {
+    "id": "436",
+    "name": "Squirishmon",
+    "image": "@/assets/images/pokemon/pokemon_436.png",
+    "type": "Fire",
+    "hp": 115,
+    "moves": ["Iron Tail", "Tail Whip", "Thunder Shock"],
+    "weaknesses": ["Rock", "Ground"]
+  },
+  {
+    "id": "437",
+    "name": "Speartlemon",
+    "image": "@/assets/images/pokemon/pokemon_437.png",
+    "type": "Grass",
+    "hp": 118,
+    "moves": ["Thunder Shock", "Razor Leaf", "Psycho Cut", "Growl"],
+    "weaknesses": ["Fire", "Flying"]
+  },
+  {
+    "id": "438",
+    "name": "Blastotmon",
+    "image": "@/assets/images/pokemon/pokemon_438.png",
+    "type": "Fighting",
+    "hp": 42,
+    "moves": ["Bug Buzz", "Poison Jab", "Stone Edge"],
+    "weaknesses": ["Psychic", "Flying", "Fairy"]
+  },
+  {
+    "id": "439",
+    "name": "Eeveetle",
+    "image": "@/assets/images/pokemon/pokemon_439.png",
+    "type": "Ground",
+    "hp": 49,
+    "moves": ["Tail Whip", "Ember"],
+    "weaknesses": ["Ice", "Grass", "Water"]
+  },
+  {
+    "id": "440",
+    "name": "Zubat",
+    "image": "@/assets/images/pokemon/pokemon_440.png",
+    "type": "Normal",
+    "hp": 44,
+    "moves": ["Water Gun", "Razor Leaf"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "441",
+    "name": "Clefsaurmon",
+    "image": "@/assets/images/pokemon/pokemon_441.png",
+    "type": "Water",
+    "hp": 32,
+    "moves": ["Psycho Cut", "Protect"],
+    "weaknesses": ["Electric", "Grass"]
+  },
+  {
+    "id": "442",
+    "name": "Pidgetwo6",
+    "image": "@/assets/images/pokemon/pokemon_442.png",
+    "type": "Poison",
+    "hp": 92,
+    "moves": ["Shadow Ball", "Tackle"],
+    "weaknesses": ["Ground", "Psychic"]
+  },
+  {
+    "id": "443",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_443.png",
+    "type": "Steel",
+    "hp": 37,
+    "moves": ["Poison Jab", "Hyper Beam", "Dark Pulse"],
+    "weaknesses": ["Ground", "Fire", "Fighting"]
+  },
+  {
+    "id": "444",
+    "name": "Eeveesect",
+    "image": "@/assets/images/pokemon/pokemon_444.png",
+    "type": "Ground",
+    "hp": 100,
+    "moves": ["Tackle", "Psycho Cut", "Withdraw", "Scratch"],
+    "weaknesses": ["Grass", "Water"]
+  },
+  {
+    "id": "445",
+    "name": "Metavee",
+    "image": "@/assets/images/pokemon/pokemon_445.png",
+    "type": "Flying",
+    "hp": 83,
+    "moves": ["Tail Whip", "Thunder Shock", "Water Gun"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "446",
+    "name": "Raichudon",
+    "image": "@/assets/images/pokemon/pokemon_446.png",
+    "type": "Normal",
+    "hp": 114,
+    "moves": ["Hyper Beam", "Flamethrower", "Stone Edge", "Psycho Cut"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "447",
+    "name": "Squiry",
+    "image": "@/assets/images/pokemon/pokemon_447.png",
+    "type": "Dragon",
+    "hp": 84,
+    "moves": ["Ember", "Scratch", "Dark Pulse"],
+    "weaknesses": ["Dragon", "Fairy"]
+  },
+  {
+    "id": "448",
+    "name": "Venuyo",
+    "image": "@/assets/images/pokemon/pokemon_448.png",
+    "type": "Fairy",
+    "hp": 51,
+    "moves": ["Flamethrower", "Iron Tail", "Thunderbolt"],
+    "weaknesses": ["Steel", "Poison"]
+  },
+  {
+    "id": "449",
+    "name": "Metay",
+    "image": "@/assets/images/pokemon/pokemon_449.png",
+    "type": "Dragon",
+    "hp": 116,
+    "moves": ["Growl", "Gust"],
+    "weaknesses": ["Ice", "Fairy", "Dragon"]
+  },
+  {
+    "id": "450",
+    "name": "Jiggtoisestar",
+    "image": "@/assets/images/pokemon/pokemon_450.png",
+    "type": "Ghost",
+    "hp": 55,
+    "moves": ["Psycho Cut", "Ember", "Rest", "Leech Seed"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "451",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_451.png",
+    "type": "Poison",
+    "hp": 49,
+    "moves": ["Hyper Beam", "Double Kick", "Water Gun", "Flamethrower"],
+    "weaknesses": ["Psychic", "Ground"]
+  },
+  {
+    "id": "452",
+    "name": "Snorok",
+    "image": "@/assets/images/pokemon/pokemon_452.png",
+    "type": "Poison",
+    "hp": 93,
+    "moves": ["Double Kick", "Dark Pulse", "Tackle"],
+    "weaknesses": ["Ground", "Psychic"]
+  },
+  {
+    "id": "453",
+    "name": "Pararan",
+    "image": "@/assets/images/pokemon/pokemon_453.png",
+    "type": "Psychic",
+    "hp": 110,
+    "moves": ["Poison Jab", "Shadow Ball", "Dragon Claw"],
+    "weaknesses": ["Dark", "Bug"]
+  },
+  {
+    "id": "454",
+    "name": "Sand",
+    "image": "@/assets/images/pokemon/pokemon_454.png",
+    "type": "Normal",
+    "hp": 77,
+    "moves": ["Leech Seed", "Bug Buzz", "Quick Attack", "Dazzling Gleam"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "455",
+    "name": "Snor",
+    "image": "@/assets/images/pokemon/pokemon_455.png",
+    "type": "Normal",
+    "hp": 94,
+    "moves": ["Quick Attack", "Flamethrower", "Gust", "Growl"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "456",
+    "name": "Para",
+    "image": "@/assets/images/pokemon/pokemon_456.png",
+    "type": "Ground",
+    "hp": 119,
+    "moves": ["Earthquake", "Withdraw", "Scratch", "Rest"],
+    "weaknesses": ["Grass", "Water", "Ice"]
+  },
+  {
+    "id": "457",
+    "name": "Wartfablestar",
+    "image": "@/assets/images/pokemon/pokemon_457.png",
+    "type": "Fighting",
+    "hp": 109,
+    "moves": ["Thunder Shock", "Withdraw", "Thunderbolt", "Dark Pulse"],
+    "weaknesses": ["Psychic", "Flying"]
+  },
+  {
+    "id": "458",
+    "name": "Arbo",
+    "image": "@/assets/images/pokemon/pokemon_458.png",
+    "type": "Bug",
+    "hp": 43,
+    "moves": ["Thunder Shock", "Quick Attack", "Tackle"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "459",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_459.png",
+    "type": "Fighting",
+    "hp": 70,
+    "moves": ["Hyper Beam", "Protect", "Earthquake"],
+    "weaknesses": ["Psychic", "Fairy"]
+  },
+  {
+    "id": "460",
+    "name": "Vulpfree",
+    "image": "@/assets/images/pokemon/pokemon_460.png",
+    "type": "Ground",
+    "hp": 59,
+    "moves": ["Bug Buzz", "Razor Leaf"],
+    "weaknesses": ["Ice", "Grass", "Water"]
+  },
+  {
+    "id": "461",
+    "name": "Pika",
+    "image": "@/assets/images/pokemon/pokemon_461.png",
+    "type": "Water",
+    "hp": 89,
+    "moves": ["Razor Leaf", "Rest", "Thunderbolt"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "462",
+    "name": "Paralett",
+    "image": "@/assets/images/pokemon/pokemon_462.png",
+    "type": "Psychic",
+    "hp": 65,
+    "moves": ["Earthquake", "Dragon Claw", "Double Kick", "Rest"],
+    "weaknesses": ["Ghost"]
+  },
+  {
+    "id": "463",
+    "name": "Oddtle",
+    "image": "@/assets/images/pokemon/pokemon_463.png",
+    "type": "Electric",
+    "hp": 32,
+    "moves": ["Dazzling Gleam", "Razor Leaf", "Scratch", "Hydro Pump"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "464",
+    "name": "Raichulax",
+    "image": "@/assets/images/pokemon/pokemon_464.png",
+    "type": "Steel",
+    "hp": 82,
+    "moves": ["Withdraw", "Shadow Ball", "Iron Tail", "Leech Seed"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "465",
+    "name": "Metabat",
+    "image": "@/assets/images/pokemon/pokemon_465.png",
+    "type": "Ghost",
+    "hp": 82,
+    "moves": ["Hydro Pump", "Gust", "Dragon Claw", "Flamethrower"],
+    "weaknesses": ["Ghost", "Dark"]
+  },
+  {
+    "id": "466",
+    "name": "Digchu4",
+    "image": "@/assets/images/pokemon/pokemon_466.png",
+    "type": "Rock",
+    "hp": 46,
+    "moves": ["Withdraw", "Bite", "Hydro Pump"],
+    "weaknesses": ["Steel", "Fighting", "Grass"]
+  },
+  {
+    "id": "467",
+    "name": "Venu",
+    "image": "@/assets/images/pokemon/pokemon_467.png",
+    "type": "Poison",
+    "hp": 84,
+    "moves": ["Stone Edge", "Razor Leaf"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "468",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_468.png",
+    "type": "Fire",
+    "hp": 44,
+    "moves": ["Flamethrower", "Leech Seed", "Dazzling Gleam", "Rest"],
+    "weaknesses": ["Water", "Rock", "Ground"]
+  },
+  {
+    "id": "469",
+    "name": "Mewbat",
+    "image": "@/assets/images/pokemon/pokemon_469.png",
+    "type": "Steel",
+    "hp": 68,
+    "moves": ["Ember", "Poison Jab"],
+    "weaknesses": ["Fighting", "Ground", "Fire"]
+  },
+  {
+    "id": "470",
+    "name": "Sandok",
+    "image": "@/assets/images/pokemon/pokemon_470.png",
+    "type": "Steel",
+    "hp": 33,
+    "moves": ["Hydro Pump", "Dragon Claw", "Vine Whip"],
+    "weaknesses": ["Fire", "Ground", "Fighting"]
+  },
+  {
+    "id": "471",
+    "name": "Ekansk",
+    "image": "@/assets/images/pokemon/pokemon_471.png",
+    "type": "Fairy",
+    "hp": 104,
+    "moves": ["Razor Leaf", "Flamethrower", "Quick Attack", "Hyper Beam"],
+    "weaknesses": ["Steel"]
+  },
+  {
+    "id": "472",
+    "name": "Snorfree",
+    "image": "@/assets/images/pokemon/pokemon_472.png",
+    "type": "Dragon",
+    "hp": 90,
+    "moves": ["Rest", "Poison Jab"],
+    "weaknesses": ["Dragon", "Fairy", "Ice"]
+  },
+  {
+    "id": "473",
+    "name": "Eeveefree6",
+    "image": "@/assets/images/pokemon/pokemon_473.png",
+    "type": "Fire",
+    "hp": 114,
+    "moves": ["Water Gun", "Ember", "Gust", "Shadow Ball"],
+    "weaknesses": ["Ground", "Water", "Rock"]
+  },
+  {
+    "id": "474",
+    "name": "Venu",
+    "image": "@/assets/images/pokemon/pokemon_474.png",
+    "type": "Normal",
+    "hp": 68,
+    "moves": ["Hyper Beam", "Razor Leaf"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "475",
+    "name": "Arbofable",
+    "image": "@/assets/images/pokemon/pokemon_475.png",
+    "type": "Steel",
+    "hp": 90,
+    "moves": ["Double Kick", "Withdraw"],
+    "weaknesses": ["Fighting", "Ground"]
+  },
+  {
+    "id": "476",
+    "name": "Buttertmon",
+    "image": "@/assets/images/pokemon/pokemon_476.png",
+    "type": "Ice",
+    "hp": 117,
+    "moves": ["Gust", "Razor Leaf", "Double Kick"],
+    "weaknesses": ["Steel", "Fire", "Rock"]
+  },
+  {
+    "id": "477",
+    "name": "Pika",
+    "image": "@/assets/images/pokemon/pokemon_477.png",
+    "type": "Fairy",
+    "hp": 36,
+    "moves": ["Thunderbolt", "Psycho Cut", "Flamethrower"],
+    "weaknesses": ["Steel"]
+  },
+  {
+    "id": "478",
+    "name": "Arboystar",
+    "image": "@/assets/images/pokemon/pokemon_478.png",
+    "type": "Fighting",
+    "hp": 36,
+    "moves": ["Withdraw", "Iron Tail", "Flamethrower"],
+    "weaknesses": ["Psychic", "Flying"]
+  },
+  {
+    "id": "479",
+    "name": "Pidgesect",
+    "image": "@/assets/images/pokemon/pokemon_479.png",
+    "type": "Rock",
+    "hp": 30,
+    "moves": ["Flamethrower", "Withdraw", "Bite"],
+    "weaknesses": ["Fighting", "Grass", "Ground", "Water", "Steel"]
+  },
+  {
+    "id": "480",
+    "name": "Wart",
+    "image": "@/assets/images/pokemon/pokemon_480.png",
+    "type": "Fighting",
+    "hp": 71,
+    "moves": ["Dragon Claw", "Stone Edge"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "481",
+    "name": "Oddy",
+    "image": "@/assets/images/pokemon/pokemon_481.png",
+    "type": "Steel",
+    "hp": 55,
+    "moves": ["Withdraw", "Tackle", "Protect", "Double Kick"],
+    "weaknesses": ["Fire", "Ground", "Fighting"]
+  },
+  {
+    "id": "482",
+    "name": "Pikarow",
+    "image": "@/assets/images/pokemon/pokemon_482.png",
+    "type": "Fairy",
+    "hp": 31,
+    "moves": ["Quick Attack", "Thunder Shock", "Earthquake"],
+    "weaknesses": ["Poison"]
+  },
+  {
+    "id": "483",
+    "name": "Blastovee",
+    "image": "@/assets/images/pokemon/pokemon_483.png",
+    "type": "Fighting",
+    "hp": 111,
+    "moves": ["Thunderbolt", "Scratch", "Psycho Cut"],
+    "weaknesses": ["Flying", "Psychic", "Fairy"]
+  },
+  {
+    "id": "484",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_484.png",
+    "type": "Rock",
+    "hp": 69,
+    "moves": ["Ember", "Rest"],
+    "weaknesses": ["Grass", "Ground", "Water"]
+  },
+  {
+    "id": "485",
+    "name": "Char",
+    "image": "@/assets/images/pokemon/pokemon_485.png",
+    "type": "Steel",
+    "hp": 36,
+    "moves": ["Thunder Shock", "Bite"],
+    "weaknesses": ["Fighting", "Fire"]
+  },
+  {
+    "id": "486",
+    "name": "Mewtlestar",
+    "image": "@/assets/images/pokemon/pokemon_486.png",
+    "type": "Ground",
+    "hp": 50,
+    "moves": ["Dragon Claw", "Tackle"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "487",
+    "name": "Butterfreestar",
+    "image": "@/assets/images/pokemon/pokemon_487.png",
+    "type": "Ground",
+    "hp": 114,
+    "moves": ["Razor Leaf", "Thunder Shock", "Dark Pulse", "Psycho Cut"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "488",
+    "name": "Squirchu",
+    "image": "@/assets/images/pokemon/pokemon_488.png",
+    "type": "Poison",
+    "hp": 49,
+    "moves": ["Rest", "Bite", "Ember", "Earthquake"],
+    "weaknesses": ["Psychic", "Ground"]
+  },
+  {
+    "id": "489",
+    "name": "Spearchu",
+    "image": "@/assets/images/pokemon/pokemon_489.png",
+    "type": "Ghost",
+    "hp": 107,
+    "moves": ["Tackle", "Hydro Pump"],
+    "weaknesses": ["Ghost"]
+  },
+  {
+    "id": "490",
+    "name": "Arbopie",
+    "image": "@/assets/images/pokemon/pokemon_490.png",
+    "type": "Bug",
+    "hp": 76,
+    "moves": ["Dragon Claw", "Tackle", "Iron Tail", "Double Kick"],
+    "weaknesses": ["Flying", "Fire", "Rock"]
+  },
+  {
+    "id": "491",
+    "name": "Charish",
+    "image": "@/assets/images/pokemon/pokemon_491.png",
+    "type": "Normal",
+    "hp": 68,
+    "moves": ["Iron Tail", "Scratch", "Tail Whip"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "492",
+    "name": "Caterlypuffkin",
+    "image": "@/assets/images/pokemon/pokemon_492.png",
+    "type": "Grass",
+    "hp": 79,
+    "moves": ["Dragon Claw", "Flamethrower", "Rest"],
+    "weaknesses": ["Bug", "Poison", "Ice"]
+  },
+  {
+    "id": "493",
+    "name": "Eevee",
+    "image": "@/assets/images/pokemon/pokemon_493.png",
+    "type": "Water",
+    "hp": 95,
+    "moves": ["Rest", "Tail Whip", "Thunderbolt"],
+    "weaknesses": ["Electric"]
+  },
+  {
+    "id": "494",
+    "name": "Ekans",
+    "image": "@/assets/images/pokemon/pokemon_494.png",
+    "type": "Dragon",
+    "hp": 33,
+    "moves": ["Rest", "Dragon Claw", "Quick Attack", "Hydro Pump"],
+    "weaknesses": ["Dragon"]
+  },
+  {
+    "id": "495",
+    "name": "Arboish",
+    "image": "@/assets/images/pokemon/pokemon_495.png",
+    "type": "Ice",
+    "hp": 74,
+    "moves": ["Quick Attack", "Tail Whip"],
+    "weaknesses": ["Steel", "Fighting", "Rock", "Fire"]
+  },
+  {
+    "id": "496",
+    "name": "Parabat",
+    "image": "@/assets/images/pokemon/pokemon_496.png",
+    "type": "Fairy",
+    "hp": 75,
+    "moves": ["Quick Attack", "Poison Jab"],
+    "weaknesses": ["Poison"]
+  },
+  {
+    "id": "497",
+    "name": "Pidgerankin",
+    "image": "@/assets/images/pokemon/pokemon_497.png",
+    "type": "Electric",
+    "hp": 58,
+    "moves": ["Hydro Pump", "Quick Attack", "Ember"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "498",
+    "name": "Rati",
+    "image": "@/assets/images/pokemon/pokemon_498.png",
+    "type": "Dragon",
+    "hp": 33,
+    "moves": ["Dazzling Gleam", "Growl", "Water Gun", "Gust"],
+    "weaknesses": ["Dragon"]
+  },
+  {
+    "id": "499",
+    "name": "Speartle",
+    "image": "@/assets/images/pokemon/pokemon_499.png",
+    "type": "Steel",
+    "hp": 113,
+    "moves": ["Earthquake", "Ember", "Growl"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "500",
+    "name": "Wartpodo",
+    "image": "@/assets/images/pokemon/pokemon_500.png",
+    "type": "Normal",
+    "hp": 82,
+    "moves": ["Tackle", "Withdraw", "Rest"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "501",
+    "name": "Bulba",
+    "image": "@/assets/images/pokemon/pokemon_501.png",
+    "type": "Steel",
+    "hp": 61,
+    "moves": ["Growl", "Dazzling Gleam"],
+    "weaknesses": ["Fire", "Ground"]
+  },
+  {
+    "id": "502",
+    "name": "Odd",
+    "image": "@/assets/images/pokemon/pokemon_502.png",
+    "type": "Rock",
+    "hp": 53,
+    "moves": ["Protect", "Ember", "Tail Whip", "Poison Jab"],
+    "weaknesses": ["Fighting", "Steel", "Grass", "Water"]
+  },
+  {
+    "id": "503",
+    "name": "Paradon",
+    "image": "@/assets/images/pokemon/pokemon_503.png",
+    "type": "Flying",
+    "hp": 44,
+    "moves": ["Growl", "Earthquake"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "504",
+    "name": "Pikatstar",
+    "image": "@/assets/images/pokemon/pokemon_504.png",
+    "type": "Fire",
+    "hp": 119,
+    "moves": ["Water Gun", "Thunderbolt"],
+    "weaknesses": ["Rock", "Water"]
+  },
+  {
+    "id": "505",
+    "name": "Dig",
+    "image": "@/assets/images/pokemon/pokemon_505.png",
+    "type": "Steel",
+    "hp": 120,
+    "moves": ["Flamethrower", "Tail Whip"],
+    "weaknesses": ["Fighting", "Ground"]
+  },
+  {
+    "id": "506",
+    "name": "Zubat",
+    "image": "@/assets/images/pokemon/pokemon_506.png",
+    "type": "Ice",
+    "hp": 99,
+    "moves": ["Hyper Beam", "Double Kick", "Bug Buzz"],
+    "weaknesses": ["Fighting", "Rock", "Steel"]
+  },
+  {
+    "id": "507",
+    "name": "Raichulett",
+    "image": "@/assets/images/pokemon/pokemon_507.png",
+    "type": "Poison",
+    "hp": 84,
+    "moves": ["Thunderbolt", "Psycho Cut", "Hydro Pump", "Poison Jab"],
+    "weaknesses": ["Psychic"]
+  },
+  {
+    "id": "508",
+    "name": "Raichu",
+    "image": "@/assets/images/pokemon/pokemon_508.png",
+    "type": "Rock",
+    "hp": 47,
+    "moves": ["Tackle", "Water Gun"],
+    "weaknesses": ["Grass", "Ground"]
+  },
+  {
+    "id": "509",
+    "name": "Mew",
+    "image": "@/assets/images/pokemon/pokemon_509.png",
+    "type": "Rock",
+    "hp": 74,
+    "moves": ["Poison Jab", "Ember", "Hydro Pump"],
+    "weaknesses": ["Steel", "Fighting", "Ground", "Water", "Grass"]
+  },
+  {
+    "id": "510",
+    "name": "Cater",
+    "image": "@/assets/images/pokemon/pokemon_510.png",
+    "type": "Rock",
+    "hp": 58,
+    "moves": ["Tackle", "Thunderbolt", "Thunder Shock"],
+    "weaknesses": ["Water", "Grass", "Steel", "Ground"]
+  },
+  {
+    "id": "511",
+    "name": "Dig",
+    "image": "@/assets/images/pokemon/pokemon_511.png",
+    "type": "Poison",
+    "hp": 80,
+    "moves": ["Tackle", "Scratch", "Razor Leaf", "Dark Pulse"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "512",
+    "name": "Venumander",
+    "image": "@/assets/images/pokemon/pokemon_512.png",
+    "type": "Fighting",
+    "hp": 94,
+    "moves": ["Rest", "Razor Leaf"],
+    "weaknesses": ["Fairy", "Flying", "Psychic"]
+  },
+  {
+    "id": "513",
+    "name": "Sand",
+    "image": "@/assets/images/pokemon/pokemon_513.png",
+    "type": "Dragon",
+    "hp": 33,
+    "moves": ["Psycho Cut", "Ember", "Vine Whip", "Thunder Shock"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "514",
+    "name": "Ekans",
+    "image": "@/assets/images/pokemon/pokemon_514.png",
+    "type": "Ground",
+    "hp": 85,
+    "moves": ["Dragon Claw", "Iron Tail", "Quick Attack", "Poison Jab"],
+    "weaknesses": ["Water", "Grass"]
+  },
+  {
+    "id": "515",
+    "name": "Butterfablemon",
+    "image": "@/assets/images/pokemon/pokemon_515.png",
+    "type": "Ground",
+    "hp": 47,
+    "moves": ["Double Kick", "Bug Buzz", "Tackle", "Withdraw"],
+    "weaknesses": ["Ice"]
+  },
+  {
+    "id": "516",
+    "name": "Pikadon6",
+    "image": "@/assets/images/pokemon/pokemon_516.png",
+    "type": "Fire",
+    "hp": 34,
+    "moves": ["Ember", "Water Gun", "Growl", "Thunderbolt"],
+    "weaknesses": ["Rock", "Ground"]
+  },
+  {
+    "id": "517",
+    "name": "Metafree",
+    "image": "@/assets/images/pokemon/pokemon_517.png",
+    "type": "Ice",
+    "hp": 77,
+    "moves": ["Vine Whip", "Shadow Ball", "Razor Leaf", "Dark Pulse"],
+    "weaknesses": ["Rock", "Fire", "Fighting"]
+  },
+  {
+    "id": "518",
+    "name": "Mewsaur",
+    "image": "@/assets/images/pokemon/pokemon_518.png",
+    "type": "Grass",
+    "hp": 104,
+    "moves": ["Tackle", "Scratch", "Psycho Cut"],
+    "weaknesses": ["Flying", "Bug", "Fire", "Ice"]
+  },
+  {
+    "id": "519",
+    "name": "Ivyok",
+    "image": "@/assets/images/pokemon/pokemon_519.png",
+    "type": "Normal",
+    "hp": 107,
+    "moves": ["Hydro Pump", "Dazzling Gleam", "Dragon Claw", "Flamethrower"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "520",
+    "name": "Arbo",
+    "image": "@/assets/images/pokemon/pokemon_520.png",
+    "type": "Steel",
+    "hp": 69,
+    "moves": ["Hyper Beam", "Dragon Claw"],
+    "weaknesses": ["Ground", "Fire", "Fighting"]
+  },
+  {
+    "id": "521",
+    "name": "Nido",
+    "image": "@/assets/images/pokemon/pokemon_521.png",
+    "type": "Fire",
+    "hp": 111,
+    "moves": ["Vine Whip", "Quick Attack", "Thunder Shock", "Protect"],
+    "weaknesses": ["Water", "Rock", "Ground"]
+  },
+  {
+    "id": "522",
+    "name": "Zubatchu9",
+    "image": "@/assets/images/pokemon/pokemon_522.png",
+    "type": "Flying",
+    "hp": 82,
+    "moves": ["Quick Attack", "Growl", "Dazzling Gleam", "Razor Leaf"],
+    "weaknesses": ["Electric", "Ice", "Rock"]
+  },
+  {
+    "id": "523",
+    "name": "Pidgelett",
+    "image": "@/assets/images/pokemon/pokemon_523.png",
+    "type": "Dark",
+    "hp": 119,
+    "moves": ["Growl", "Razor Leaf", "Shadow Ball"],
+    "weaknesses": ["Bug"]
+  },
+  {
+    "id": "524",
+    "name": "Odddon",
+    "image": "@/assets/images/pokemon/pokemon_524.png",
+    "type": "Electric",
+    "hp": 77,
+    "moves": ["Tackle", "Protect", "Bite", "Dragon Claw"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "525",
+    "name": "Paramander",
+    "image": "@/assets/images/pokemon/pokemon_525.png",
+    "type": "Rock",
+    "hp": 108,
+    "moves": ["Stone Edge", "Water Gun", "Razor Leaf"],
+    "weaknesses": ["Fighting", "Ground", "Steel", "Water", "Grass"]
+  },
+  {
+    "id": "526",
+    "name": "Ekans",
+    "image": "@/assets/images/pokemon/pokemon_526.png",
+    "type": "Steel",
+    "hp": 119,
+    "moves": ["Growl", "Bug Buzz"],
+    "weaknesses": ["Ground", "Fire", "Fighting"]
+  },
+  {
+    "id": "527",
+    "name": "Char",
+    "image": "@/assets/images/pokemon/pokemon_527.png",
+    "type": "Normal",
+    "hp": 101,
+    "moves": ["Gust", "Double Kick", "Stone Edge", "Dazzling Gleam"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "528",
+    "name": "Bulbat9",
+    "image": "@/assets/images/pokemon/pokemon_528.png",
+    "type": "Rock",
+    "hp": 36,
+    "moves": ["Shadow Ball", "Dazzling Gleam", "Psycho Cut"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "529",
+    "name": "Rati",
+    "image": "@/assets/images/pokemon/pokemon_529.png",
+    "type": "Normal",
+    "hp": 55,
+    "moves": ["Bite", "Tackle"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "530",
+    "name": "Squir",
+    "image": "@/assets/images/pokemon/pokemon_530.png",
+    "type": "Grass",
+    "hp": 71,
+    "moves": ["Psycho Cut", "Scratch", "Rest"],
+    "weaknesses": ["Ice", "Poison", "Flying", "Bug"]
+  },
+  {
+    "id": "531",
+    "name": "Arbopod",
+    "image": "@/assets/images/pokemon/pokemon_531.png",
+    "type": "Ghost",
+    "hp": 60,
+    "moves": ["Protect", "Thunder Shock"],
+    "weaknesses": ["Dark", "Ghost"]
+  },
+  {
+    "id": "532",
+    "name": "Snorok",
+    "image": "@/assets/images/pokemon/pokemon_532.png",
+    "type": "Dragon",
+    "hp": 50,
+    "moves": ["Thunder Shock", "Dark Pulse", "Poison Jab", "Rest"],
+    "weaknesses": ["Ice", "Dragon"]
+  },
+  {
+    "id": "533",
+    "name": "Parabat9",
+    "image": "@/assets/images/pokemon/pokemon_533.png",
+    "type": "Grass",
+    "hp": 114,
+    "moves": ["Quick Attack", "Hydro Pump"],
+    "weaknesses": ["Poison", "Flying", "Fire", "Ice"]
+  },
+  {
+    "id": "534",
+    "name": "Digshrew",
+    "image": "@/assets/images/pokemon/pokemon_534.png",
+    "type": "Grass",
+    "hp": 43,
+    "moves": ["Double Kick", "Razor Leaf", "Dark Pulse"],
+    "weaknesses": ["Bug"]
+  },
+  {
+    "id": "535",
+    "name": "Raichutoise",
+    "image": "@/assets/images/pokemon/pokemon_535.png",
+    "type": "Poison",
+    "hp": 74,
+    "moves": ["Bite", "Vine Whip", "Protect", "Bug Buzz"],
+    "weaknesses": ["Ground"]
+  },
+  {
+    "id": "536",
+    "name": "Vulpfable5",
+    "image": "@/assets/images/pokemon/pokemon_536.png",
+    "type": "Poison",
+    "hp": 118,
+    "moves": ["Hyper Beam", "Scratch", "Flamethrower"],
+    "weaknesses": ["Ground", "Psychic"]
+  },
+  {
+    "id": "537",
+    "name": "Snorchustar",
+    "image": "@/assets/images/pokemon/pokemon_537.png",
+    "type": "Ground",
+    "hp": 35,
+    "moves": ["Withdraw", "Leech Seed", "Thunder Shock"],
+    "weaknesses": ["Water"]
+  },
+  {
+    "id": "538",
+    "name": "Metaveekin",
+    "image": "@/assets/images/pokemon/pokemon_538.png",
+    "type": "Normal",
+    "hp": 67,
+    "moves": ["Water Gun", "Stone Edge", "Vine Whip"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "539",
+    "name": "Spearfree",
+    "image": "@/assets/images/pokemon/pokemon_539.png",
+    "type": "Bug",
+    "hp": 31,
+    "moves": ["Iron Tail", "Growl"],
+    "weaknesses": ["Flying"]
+  },
+  {
+    "id": "540",
+    "name": "Venu",
+    "image": "@/assets/images/pokemon/pokemon_540.png",
+    "type": "Ghost",
+    "hp": 109,
+    "moves": ["Tail Whip", "Rest", "Thunder Shock", "Leech Seed"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "541",
+    "name": "Spearsect",
+    "image": "@/assets/images/pokemon/pokemon_541.png",
+    "type": "Ice",
+    "hp": 99,
+    "moves": ["Flamethrower", "Earthquake", "Vine Whip"],
+    "weaknesses": ["Steel", "Fire"]
+  },
+  {
+    "id": "542",
+    "name": "Caterk",
+    "image": "@/assets/images/pokemon/pokemon_542.png",
+    "type": "Ghost",
+    "hp": 57,
+    "moves": ["Thunder Shock", "Bug Buzz"],
+    "weaknesses": ["Dark"]
+  },
+  {
+    "id": "543",
+    "name": "Pikaix",
+    "image": "@/assets/images/pokemon/pokemon_543.png",
+    "type": "Flying",
+    "hp": 97,
+    "moves": ["Ember", "Tackle", "Double Kick", "Thunder Shock"],
+    "weaknesses": ["Ice", "Rock"]
+  },
+  {
+    "id": "544",
+    "name": "Meta",
+    "image": "@/assets/images/pokemon/pokemon_544.png",
+    "type": "Normal",
+    "hp": 104,
+    "moves": ["Psycho Cut", "Earthquake", "Hyper Beam"],
+    "weaknesses": ["Fighting"]
+  },
+  {
+    "id": "545",
+    "name": "Ekansmanderstar",
+    "image": "@/assets/images/pokemon/pokemon_545.png",
+    "type": "Water",
+    "hp": 43,
+    "moves": ["Iron Tail", "Vine Whip", "Scratch", "Tackle"],
+    "weaknesses": ["Grass", "Electric"]
+  },
+  {
+    "id": "546",
+    "name": "Squir",
+    "image": "@/assets/images/pokemon/pokemon_546.png",
+    "type": "Psychic",
+    "hp": 89,
+    "moves": ["Ember", "Quick Attack", "Flamethrower", "Tail Whip"],
+    "weaknesses": ["Ghost", "Bug"]
+  },
+  {
+    "id": "547",
+    "name": "Squiry",
+    "image": "@/assets/images/pokemon/pokemon_547.png",
+    "type": "Water",
+    "hp": 33,
+    "moves": ["Thunder Shock", "Tackle", "Thunderbolt"],
+    "weaknesses": ["Grass"]
+  },
+  {
+    "id": "548",
+    "name": "Venu",
+    "image": "@/assets/images/pokemon/pokemon_548.png",
+    "type": "Dragon",
+    "hp": 35,
+    "moves": ["Water Gun", "Flamethrower", "Hydro Pump", "Poison Jab"],
+    "weaknesses": ["Dragon", "Fairy", "Ice"]
+  },
+  {
+    "id": "549",
+    "name": "Paratwo",
+    "image": "@/assets/images/pokemon/pokemon_549.png",
+    "type": "Ice",
+    "hp": 82,
+    "moves": ["Quick Attack", "Flamethrower", "Poison Jab"],
+    "weaknesses": ["Fighting", "Steel", "Fire", "Rock"]
+  },
+  {
+    "id": "550",
+    "name": "Snordon",
+    "image": "@/assets/images/pokemon/pokemon_550.png",
+    "type": "Bug",
+    "hp": 40,
+    "moves": ["Dazzling Gleam", "Vine Whip", "Razor Leaf", "Scratch"],
+    "weaknesses": ["Fire", "Rock", "Flying"]
+  }
+]
