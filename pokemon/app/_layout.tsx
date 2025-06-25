@@ -5,7 +5,6 @@ import {
 } from "@react-navigation/native";
 import { useFonts } from "expo-font";
 import { Stack } from "expo-router";
-import { StatusBar } from "expo-status-bar";
 import "react-native-reanimated";
 import { ThemedText } from "@/components/ThemedText";
 import { ThemedView } from "@/components/ThemedView";
@@ -13,6 +12,8 @@ import { StyleSheet, Platform, ScrollView } from "react-native";
 import { useColorScheme } from "@/hooks/useColorScheme";
 import { PokemonCard } from "@/components/pokemon/PokemonCard";
 import { SafeAreaView } from "react-native-safe-area-context";
+import { StatusBar as RNStatusBar } from "react-native";
+import { StatusBar } from "expo-status-bar";
 
 export default function RootLayout() {
   const colorScheme = useColorScheme();
@@ -83,6 +84,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#fff",
-    paddingTop: Platform.OS === "android" || Platform.OS === "web" ? 25 : 0,
+    paddingTop: RNStatusBar.currentHeight || 0,
   },
 });
